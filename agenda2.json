@@ -11,11 +11,13 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         },
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -29,7 +31,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -43,7 +46,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -57,7 +61,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -71,7 +76,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -85,7 +91,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -99,7 +106,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -113,11 +121,33 @@
                     "presentations": [
                         {
                             "title": "Computational Desire Line Analysis of Cyclists on the Dybb\u221a\u220flsbro Intersection in Copenhagen",
-                            "speaker": "Michael Szell"
+                            "presenter": "Michael Szell",
+                            "presentation_time": "11:00"
                         },
                         {
                             "title": "Identify Urban Risk Factors for Bus Crashes Using Computer Vision Tools",
-                            "speaker": "Ting Lian"
+                            "presenter": "Ting Lian",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Understanding how Road Network Safety Impacts Cycling Behaviour",
+                            "presenter": "Massimiliano Luca",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Understanding the gender gaps in employment and mobility using large-scale behavioral data",
+                            "presenter": "Silvia De Sojo Caso",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Uncovering the differences and similarities between physical and virtual mobility",
+                            "presenter": "Ronaldo Menezes",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "CoolWalks",
+                            "presenter": "Henrik Wolf",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -130,8 +160,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Impact of tiered measures on social contact and mixing patterns of adults in Italy during the second wave of COVID-19",
+                            "presenter": "Michele Tizzani",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Vaccination Homophily in Social Networks During the Covid-19 Pandemic",
+                            "presenter": "J\u221a\u222blia Koltai",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Trading contact tracing efficiency for finding patient zero",
+                            "presenter": "Marcin Waniek",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Modeling adaptive forward-looking behavior in epidemics on networks",
+                            "presenter": "Michele Tizzoni",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Behavioural changes associated to the COVID-19 vaccine: Evidence from a cross-national Facebook survey",
+                            "presenter": "Alessandro De Gaetano",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Evolution of Public Opinion on COVID-19 Vaccination in Japan",
+                            "presenter": "Ryota Kobayashi",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Einar Lundsgaard",
@@ -144,8 +200,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Friendship Modulates Hierarchical Relations in Public Elementary Schools",
+                            "presenter": "Melanie Oyarzun",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Behavior-based dependency networks improve predictability of economic resilience",
+                            "presenter": "Takahiro Yabe",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Development of Educational Segregation Measured using Longitudinal Population Scale Network Data",
+                            "presenter": "Edwin De Jonge",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "The Amplification Paradox in Recommender Systems",
+                            "presenter": "Veniamin Veselovsky",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Population-level common sense",
+                            "presenter": "Mark Whiting",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Emergence of social hierarchies in a society of two competitive classes",
+                            "presenter": "Marc Sadurn\u221a\u2260 Parera",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Henrik Dam",
@@ -158,8 +240,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Beyond Race and Gender: A Look at Sociodemographic Biases Toward Persons with Disabilities",
+                            "presenter": "Jamell Dacon",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb",
+                            "presenter": "Minsu Park",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Cross Walking Bias: How Data Recombination Reifies Bias in Criminal Sentencing",
+                            "presenter": "Adam Pah",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Instructions (for All): On Differences and Biases in How-to Guides for Specific Audiences",
+                            "presenter": "Nicola Fanton",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Women in the Workplace: Analyzing Gender Biases in Corporate Email Communications",
+                            "presenter": "Zeyneb Kaya",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "YouTube as a visual digital intermediary in global climate communication",
+                            "presenter": "Matteo Magnani",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Nielsine Nielsen",
@@ -172,8 +280,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "How convincing are AI-generated moral arguments for climate action?",
+                            "presenter": "Nicole Nisbett",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Adverse weather amplifies social media activity",
+                            "presenter": "Kelton Minor",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Activists preserving the (Digital Media) Environment \u201a\u00c4\u00ec Advocacy Coalitions of Lu\u00c3\u00e0tzerath",
+                            "presenter": "Hannah-Marie B\u221a\u00battner",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "The Evolution of Climate Scepticism on Twitter: Polarization, Hypocrisy, and the Musk Takeover",
+                            "presenter": "Max Falkenberg",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Advances in negative emissions technologies generate heterogeneous knowledge spillovers",
+                            "presenter": "Giorgio Tripodi",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Nature exposure is associated with reduced smartphone use",
+                            "presenter": "Kelton Minor",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Holst",
@@ -186,8 +320,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Quantifying the origins and impacts of book bans in U.S. public schools, 2021 - 2022",
+                            "presenter": "Katie Spoon",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "In-class Data Analysis Replications: Feasibility, Student Learning Outcomes, and Challenges",
+                            "presenter": "Kristina Gligoric, Tiziano Piccardi",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Intersectional Inequalities in Online Communication Among Postsecondary Learners",
+                            "presenter": "Zhen Xu",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Top-Down Discipline: The Role of Carceral Ideology in US Public Schools' Disciplinary Regimes",
+                            "presenter": "Nalette Brodnax",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Impacts of Differential Privacy on Fostering more Racially and Ethnically Diverse Elementary Schools",
+                            "presenter": "Nabeel Gillani",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Homophily and heterogeneity of students\u201a\u00c4\u00f4 preferences increase persistence in STEM",
+                            "presenter": "Melanie Oyarzun",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 13.1.41",
@@ -200,8 +360,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "A dynamic perspective on online news article reading",
+                            "presenter": "Roeland Dub\u221a\u00ael",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Estimating the Impact of Replies on First-Time Contributors in Online Communities: A Peer Encouragement-Based Approach",
+                            "presenter": "Sanjay Kairam",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Who is driving the conversation? Analysing the nodality of British MPs and journalists on online platforms",
+                            "presenter": "Leonardo Castro Gonzalez",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "The more news sources, the better for democracy? Diversity of information exposure and feelings of self-efficacy",
+                            "presenter": "Helena Rauxloh",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "You Are What You Read or Whom You Trust?",
+                            "presenter": "Dylan Thurgood",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Matter Orders: Structural cues affect readers' interpretations independently of word choice",
+                            "presenter": "Ardon Shorr, Mark Whiting",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 13.1.63",
@@ -214,8 +400,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Estimating Affective Polarization on a Social Network",
+                            "presenter": "Marilena Hohmann",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Overcoming Affective Polarization in Generative Language Models",
+                            "presenter": "Tiancheng Hu",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Characterizing Polarization in Social Networks using Archetypal Analysis",
+                            "presenter": "Nikolaos Nakis",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Evidence of Demographic rather than Ideological Segregation in News Discussion on Reddit",
+                            "presenter": "Gianmarco De Francisci Morales",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "From shared to separate: Tracking polarization in the production and consumption of American TV news",
+                            "presenter": "Homa Hosseinmardi",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Predicting polarisation of dynamic social networks via graph auto-encoders",
+                            "presenter": "Li Zhang",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 7.15.92",
@@ -228,8 +440,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Mobility potential as a window to explore social capital in urban systems",
+                            "presenter": "Ohhyun Kwon",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Evidence of pandemic fatigue associated with stricter tiered COVID-19 restrictions",
+                            "presenter": "Federico Delussu",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Long-term impact of job loss on individual mobility behaviour",
+                            "presenter": "Simone Centellegher",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Disaggregating bike-share mobility data to measure urban segregation over time",
+                            "presenter": "David Liu",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility",
+                            "presenter": "Damin Lee",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "How Can Transport Inequality Contribute to Housing Insecurity?",
+                            "presenter": "Nandini Iyer",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -242,8 +480,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Wikipedia's Polarization on Reddit",
+                            "presenter": "Veniamin Veselovsky",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Political polarization: Persistent hatred or issue-dependent sidings?",
+                            "presenter": "Ali Faqeeh",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Separating Polarization from Noise: Comparison and Normalization of Structural Polarization Measures",
+                            "presenter": "Ali Salloum",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "The Manifestation of Affective Polarization on Social Media: A Cross-Platform Supervised Machine Learning Approach",
+                            "presenter": "Christian Overgaard",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Self-censorship and political identity on social media",
+                            "presenter": "Fatemah Alqabandi",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Analysing the structure of high-dimensional opinion spaces - the example of Swiss popular votes",
+                            "presenter": "Eckehard Olbrich",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Einar Lundsgaard",
@@ -256,8 +520,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Millions of Brand Co-visits Reveal Socioeconomic Status Boundaries in Daily Consumption",
+                            "presenter": "Milena Tsvetkova",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Emerging Labour Flow Networks",
+                            "presenter": "Kathyrn Fair",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Universal patterns in egocentric communication networks",
+                            "presenter": "Gerardo Iniguez",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Persistance of Social Ties from Informal Group Interactions",
+                            "presenter": "Johanna Einsiedler",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Connected Reality: Virtual Immersion in Social Networks",
+                            "presenter": "Alexander Gates",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Minority group size moderates inequity-reducing strategies in homophilic networks",
+                            "presenter": "Sam Zhang",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Henrik Dam",
@@ -270,8 +560,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Modeling participants\u201a\u00c4\u00f4 compliance in a large-scale sociometric study in low- and middle-income environments",
+                            "presenter": "Lorenzo Dall'amico",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Mapping users' checking habits in mobile app usage",
+                            "presenter": "Alessandra Urbinati",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "One App to Assess Them All \u201a\u00c4\u00ec Combining Logging, Experience Sampling, and Survey in an Android and iOS App",
+                            "presenter": "Roland Toth",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Exposure to urban and rural contexts shapes smartphone usage behavior",
+                            "presenter": "Anna Sapienza",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Biased Bytes: On the Validity of Estimating Food Consumption from Digital Traces",
+                            "presenter": "Kristina Gligoric",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Directing Smartphone Use Through the Self-Nudge App one sec",
+                            "presenter": "David Groning",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Nielsine Nielsen",
@@ -284,8 +600,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Two years of Trending Topics: Measuring Issue Alignment in the German Twittersphere",
+                            "presenter": "Armin Pournaki",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Measuring Conversational Contentiousness on Reddit with Sub-Graph Motifs",
+                            "presenter": "Bradley Spahn",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Extreme swingers: explaining political preference change from far-left to far-right in Twitter users",
+                            "presenter": "Pedro Ramaciotti",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Characteristics and Interest Topic Extraction of Non-Partisan Clusters in Social Media: Case Study of the National Funeral for Former PM Shinzo Abe",
+                            "presenter": "Yuta Tomokiyo",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Blame attribution in human-AI and human-only systems: Crowdsourcing judgments from Twitter",
+                            "presenter": "Matija Franklin",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Supersharers of Fake News on Twitter",
+                            "presenter": "Nir Grinberg",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Holst",
@@ -298,8 +640,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Temporal Rhythms of Information Consumption on Wikipedia",
+                            "presenter": "Tiziano Piccardi",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Computational Framework of AST Model Reveals Mechanism of Knowledge Accumulation",
+                            "presenter": "Akira Matsui",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "depths of wikipedia: Understanding cross-platform online attention, content creation, and success",
+                            "presenter": "Patrick Gildersleve",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Orphan articles: The dark matter of Wikipedia",
+                            "presenter": "Akhil Arora",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Toxic comments reduce activity of volunteer editors on Wikipedia",
+                            "presenter": "Ivan Smirnov",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "The Webonization of Wikipedia: Characterizing Wikipedia Linking Across the Web",
+                            "presenter": "Veniamin Veselovsky",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 13.1.41",
@@ -312,8 +680,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "The interplay between refugee inflows and media coverage in determining attitudes towards immigrants in Germany",
+                            "presenter": "Chia-Jung Tsai",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Governing through Gossip: The Role of Informal Communication in the Presence of Reputation Systems in Online Markets",
+                            "presenter": "Ana Macanovic",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "\u201a\u00c4\u00faI Really Thought I Would Use More Than Just Google\u201a\u00c4\u00f9 \u201a\u00c4\u00ec Developing and Testing a Browsing History Donation Approach With Journalists",
+                            "presenter": "Felix Victor M\u221a\u00banch",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Modeling the cycles of attention of a social problem - the case of pesticide use in France",
+                            "presenter": "Jean Philippe Cointet, Aymeric Luneau",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "One Image, Two Mirrors: Mapping Chinese Populist Ultranationalism on Weibo and Twitter",
+                            "presenter": "Ralph Schroeder",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Exploring Urban-Rural Disparities in the Production of Politicians' Information",
+                            "presenter": "Akira Matsui",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 13.1.63",
@@ -326,8 +720,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Diverse Misinformation: Impacts of Human Biases on Detection of Deepfakes on Networks",
+                            "presenter": "Juniper Lovato",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Assembling coordinated patterns in the study of dis/misinformation campaigns",
+                            "presenter": "Kateryna Kasianenko",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "From alternative conceptions of honesty to alternative facts in communications by U.S. politicians",
+                            "presenter": "Segun Aroyehun",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Partisan conflict over content moderation is more than disagreement about facts",
+                            "presenter": "Ruth Elisabeth Appel",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Vulnerabilities of the Online Public Square to Manipulation",
+                            "presenter": "Bao Tran Truong",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Predicting when information will be remembered: A machine learning and eye-tracking approach to the study of misinformation",
+                            "presenter": "Jason Coronel",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 7.15.92",
@@ -341,7 +761,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -355,7 +776,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -369,7 +791,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -388,11 +811,13 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         },
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -406,7 +831,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -420,7 +846,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -434,7 +861,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -448,7 +876,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -462,7 +891,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -475,8 +905,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Mixing Individual and Collective Behaviours in Mobility Models",
+                            "presenter": "Sebastiano Bontorin",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Mobility Networks and Pandemic Analytics: How much can we gain by using complex network models?",
+                            "presenter": "Babak Heydari",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Generating Mobility Networks with Generative Adversarial Networks",
+                            "presenter": "Giovanni Mauro",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Moving to opportunity through coworker networks",
+                            "presenter": "Maddalena Conte",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Network analysis reveals fare-free shared bike system improves community integration in Boston",
+                            "presenter": "Nail Bashan",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Nature of individual exploration in blockchain-governed virtual environments",
+                            "presenter": "Kishore Vasan",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -489,8 +945,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "The Language of Opinion Change on Social Media under the Lens of Communicative Action",
+                            "presenter": "Gianmarco De Francisci Morales",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Metrics at Work: How Social Media Metrics Shape News Production on Facebook",
+                            "presenter": "Subhayan Mukerjee",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Managing Influencer-Brand Collaboration: Empirical Analysis of Social Media Influencers",
+                            "presenter": "Magie Cheng",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Do People Signal Their Socioeconomic Status on Social Media?\u201a\u00c4\u00eeAn Analysis of \u201a\u00c4\u00faConspicuous Tweeting\u201a\u00c4\u00f9 by Machine Learning",
+                            "presenter": "Makoto Mizuno",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Controversial Events and Legislator (Non)responsiveness in the Age of Multimedia Online Platforms",
+                            "presenter": "Tina Law",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Determinants of Willingness to Donate Data from Social Media Platforms",
+                            "presenter": "J\u221a\u222blia Sz\u221a\u00b0mely",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Einar Lundsgaard",
@@ -503,8 +985,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Incentive-Compatible Sampling Estimators",
+                            "presenter": "James Michelson",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Dynamics of Bargaining",
+                            "presenter": "Miruna Cotet",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Labor Space : A spatial representation of the labor market.",
+                            "presenter": "Seongwoon Kim",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Quantifying the technological foundations of economic complexity",
+                            "presenter": "Hardik Rajpal",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Costs of information for firms",
+                            "presenter": "Edward Lee",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Extinction of reciprocity in a semi-automated driving coordination experiment",
+                            "presenter": "Hirokazu Shirado",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Henrik Dam",
@@ -517,8 +1025,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Measuring Regional Variation in Culture Through Embedding-Based Lexica",
+                            "presenter": "Shreya Havaldar",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Strong Winds and Active Volcanoes: Unsupervised Methods for Linguistic Analysis of the Weather",
+                            "presenter": "James Young",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Open-Ended Survey Questions: A comparison of information content in text and audio response formats",
+                            "presenter": "Camille Landesvatter",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "PersonaLLM: Investigating the Ability of GPT-3 to Express Personality Traits and Gender Differences",
+                            "presenter": "Hang Jiang",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Get Out of the Nest! The Infodemic of the #TwitterMigration",
+                            "presenter": "Lucio La Cava",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Topics of Our Dreams",
+                            "presenter": "Sanja Scepanovic",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Nielsine Nielsen",
@@ -531,8 +1065,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Tasks Beyond Taxonomies: A Multidimensional Embedding Space of Team Tasks",
+                            "presenter": "Xinlan Emily Hu",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Challenging but Connective: Large-Scale Characteristics of Cross Time Zone Meetings",
+                            "presenter": "Lillio Mok",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "High-throughput experiments in small-group deliberation",
+                            "presenter": "James Houghton",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Emergent patterns of intra-team relationships and their impact on team performance: an analysis of teamwork for idea generation",
+                            "presenter": "Yuzuki Takahashi",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Aspiration of prestige in the selection of peer institutions",
+                            "presenter": "Tzu-Chi Yen",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "How do people navigate their ideas during problem scoping of open-ended ill-defined problems? A knowledge graph-based approach",
+                            "presenter": "Ezequiel Lopez Lopez",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Holst",
@@ -545,8 +1105,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Confirmation trees: a simple strategy for producing hybrid intelligence",
+                            "presenter": "Frederik Andersen",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "``Let them learn\": an ABM framework with adaptable agents",
+                            "presenter": "Elias Najarro",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Comparing Methods of Creating a Random Sample of Twitter Users from a Country",
+                            "presenter": "Meysam Alizadeh",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Causality Guiding Survey Analysis: A Use Case on Cyberbullying",
+                            "presenter": "Jaime Perez Sanchez",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "NRobust: A multiversal library with model selection, averaging, and out-of-sample analysis",
+                            "presenter": "Daniel Valdenegro",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Estimating sub-national wealth inequality in the US using ensemble learning",
+                            "presenter": "Joel Suss",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 13.1.41",
@@ -559,8 +1145,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "The Online Medical Taxonomy",
+                            "presenter": "Sanja Scepanovic",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Trend of Depression in Online Mutual Help Group for Major Depressive Disorder by a Two-step NLP Method",
+                            "presenter": "Wanqi Hu, Xinran Wang",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Does Papageno Effect Occur on Social Media?",
+                            "presenter": "Yunhao Yuan",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Interventions and Illegal Drug Use: Evidence from a Darknet Marketplace",
+                            "presenter": "Artem Kuriksha",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Classics never die: a novel multilevel hidden Markov model to uncover mood states in patients with bipolar disorder",
+                            "presenter": "Sebasti\u221a\u00b0n Mildiner Moraga",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Establishing Prediction Benchmarks of Fertility Outcomes for 12 European Countries",
+                            "presenter": "Elizaveta Sivak",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 13.1.63",
@@ -573,8 +1185,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Academic Support Network Reflects Doctoral Experience and Productivity",
+                            "presenter": "Onur Varol",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "The COVID-19 research outbreak: how the pandemic culminated in a surge of new researchers",
+                            "presenter": "Satyaki Sikdar",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "The impact of COVID-19 on scientific productivity and collaboration",
+                            "presenter": "Sandro Sousa",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Interdisciplinary Papers Supported by Disciplinary Grants Garner Deep and Broad Scientific Impact",
+                            "presenter": "Minsu Park",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Gender Disparities in Brokerage of Scientific Collaboration",
+                            "presenter": "Jan Bachmann",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Gendered trajectories in (early-career) international research mobility: mobility prospects and career impact",
+                            "presenter": "Claudia Acciai",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 7.15.92",
@@ -587,8 +1225,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Characterizing High-Skilled Mobility Patterns in Europe via LinkedIn",
+                            "presenter": "Emilio Zagheni - Max Planck Institute For Demographic Research",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Social-economic segregation dynamics at neighborhoods scale",
+                            "presenter": "Lavinia Rossi Mori",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Chile's Internal Migration Dynamics during the COVID-19 Pandemic",
+                            "presenter": "Erick Elejalde",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Comparing Methodologies for Constructing Epidemic Networks from GPS Mobility Data",
+                            "presenter": "Jorge Barreras",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Mobility and Transit Segregation in Urban Spaces.",
+                            "presenter": "Nandini Iyer",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Exploring urban income segregation with big geolocation data on human mobility",
+                            "presenter": "Yuan Liao",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -601,8 +1265,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Assessing the Impacts of COVID-19 on Reddit",
+                            "presenter": "Veniamin Veselovsky",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Leaves in the wind: identifying passivity in individual news selections via digital trace data",
+                            "presenter": "Rupert Kiddle",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "How Faithful are Social Media Posts in Representing News Articles?",
+                            "presenter": "Satoshi Tohda",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "The alternative social media site ecosystem",
+                            "presenter": "Regina Widjaya",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "The Cross-platform Consequences of Deplatforming on Social Media",
+                            "presenter": "Amin Mekacher",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Understanding Online Migration Decisions Following the Banning of Radical Communities",
+                            "presenter": "Giuseppe Russo",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Einar Lundsgaard",
@@ -615,8 +1305,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Mapping charitable giving preferences from 3 million decisions worldwide",
+                            "presenter": "Edmond Awad",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Complex dynamics of buyers and sellers in dark web markets",
+                            "presenter": "Elohim Fonseca Dos Reis",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Winner-takes-all job markets: A network approach",
+                            "presenter": "Ella Clement",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Birds of a feather: A method for detecting suspicious clusters of companies in the UK",
+                            "presenter": "Kathyrn Fair",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Innovation, Adoption, and the Life Cycles of Technical Skills",
+                            "presenter": "Sebastian Steffen",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Are Large-Scale Data from Private Companies Reliable?  An Analysis of Location Data on Financial Establishments in a Popular Dataset",
+                            "presenter": "Nikolitsa Grigoropoulou",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Henrik Dam",
@@ -629,8 +1345,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Predicting Public Opinions through the Integration of Large Language Models and Nationally Representative Surveys",
+                            "presenter": "Junsol Kim",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Zero-Shot Multiclass Classification of Policy Documents with Large Language Models",
+                            "presenter": "Erkan Gunes",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Fostering Online Civil Sanctuaries with Theory-Informed Automated Content Moderation",
+                            "presenter": "Sonja Schmer-Galunder",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Positive Stress in Companies",
+                            "presenter": "Sanja Scepanovic",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "100-Bot Convo: Social Media Simulation Using a Pre-Trained Language Model-Based \\Agent Network",
+                            "presenter": "Zachary Pangan",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "AI Crowdturfing on Yelp: Identifying Patterns in Machine-Generated Fake Reviews",
+                            "presenter": "Alessandro Gambetti",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Nielsine Nielsen",
@@ -643,8 +1385,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Public Perceptions of Social Media Field Experiments",
+                            "presenter": "Jason Burton",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Competition for popularity and interventions on a Chinese microblogging site",
+                            "presenter": "Hao Cui",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Does Form follow Function? Modeling the Dynamics of Design Exploration in Web Design with a GAM",
+                            "presenter": "Jia Lin Cheoh",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Should I Stop or Should I Go: Early Stopping with Heterogeneous Populations",
+                            "presenter": "Hammaad Adam",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Disentangling algorithms and user preferences with counterfactual bots",
+                            "presenter": "Homa Hosseinmardi",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Digital Immunity: human consciousness as shield for A.I. harms",
+                            "presenter": "Martin Hilbert",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Holst",
@@ -657,8 +1425,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Investigating the Effectiveness \\\\of Using Ego-Network Structures for Identifying Influencers on Social Media",
+                            "presenter": "Akira Hashimoto",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "The global network of cultural ecosystem services estimated from social media posts reveals increased focus on urban greenspace and self-care during the COVID-19 pandemic",
+                            "presenter": "Anne Cathrine Linder",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "What is (still) going on in Brazil? A Political Tale from Tweets",
+                            "presenter": "Diogo Pacheco",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Assessing information flows from think tanks and interest groups to politicians",
+                            "presenter": "Jonas Alexander Havstein Eriksen",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Reddit's self-organised bull runs: Social contagion and asset prices",
+                            "presenter": "Valentina Semenova",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "\u201a\u00c4\u00f2Dy/Normic\u201a\u00c4\u00f4 Webs of Belief",
+                            "presenter": "Nicholas Buttrick",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 13.1.41",
@@ -671,8 +1465,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Helping a Friend or Supporting a Cause? Disentangling Active and Passive Cosponsorship Decisions in the U.S. Congress",
+                            "presenter": "Giuseppe Russo",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Escalatory Dynamics in International Relations",
+                            "presenter": "Aaron Schein",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Real time study of the political opinion using massive data",
+                            "presenter": "R\u221a\u00a9mi Perrier",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Midterm Candidate Participation in False and Misleading Election Discourse on Twitter",
+                            "presenter": "Kayla Duskin",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "The dissemination of alternative media content in right-leaning online communities",
+                            "presenter": "Victoria Yantseva",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Facing the Voters - Individual and Institutional Determinants of Personalization in Social Media Images",
+                            "presenter": "Felix Schmidt",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 13.1.63",
@@ -685,8 +1505,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations",
+                            "presenter": "Fengyuan Liu",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "A pattern of diffusion of artificial intelligence in science: the development of an AI scientific specialty in neuroscience",
+                            "presenter": "Fontaine Sylvain",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Signature Trajectories in the Multiplatform Diffusion of Science",
+                            "presenter": "Jose Cordova",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "A global bibliometric perspective on the social structure of science",
+                            "presenter": "Aliakbar Akbaritabar",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Scholarly migration and collaboration worldwide: A word embedding representation",
+                            "presenter": "Erin Walk",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Changes in variance and the canonical faculty productivity trajectory",
+                            "presenter": "Sam Zhang",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 7.15.92",
@@ -700,7 +1546,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -714,7 +1561,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -733,7 +1581,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -747,11 +1596,13 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         },
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -765,7 +1616,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -779,7 +1631,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -793,7 +1646,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -807,7 +1661,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -821,7 +1676,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -834,8 +1690,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Fairness in Vulnerable Attribute Prediction on Social Media",
+                            "presenter": "Kyriaki Kalimeri",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "The Benefits of Bias? A Rational Choice Informed Agent-Based Model on Algorithmic Technology in the Public Sector",
+                            "presenter": "Spencer Poodiack Parsons",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "COVID-19 amplified racial disparities in the U.S.~criminal legal system",
+                            "presenter": "Brennan Klein",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Machine learning can guide food security efforts when primary data are not available",
+                            "presenter": "Elisa Omodei",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Algorithmic and Human Collusion",
+                            "presenter": "Tobias Werner",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Ethical Risks of Algorithmic Delegation",
+                            "presenter": "Nils K\u221a\u2202bis",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -848,8 +1730,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Empirical calibration of full scale agent-based models of school choice: computational challenges and model validation",
+                            "presenter": "Eric Dignum",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Matching Using Feature Importance: An Auditable Approach to Causal Inference",
+                            "presenter": "Quinn Lanners",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Social Language Strategies of User Prompting for `Text-to-Image' Generative Deep Learning Models",
+                            "presenter": "Amy Smith",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Closing the Loop: Feedback Loops and Biases in Automated Decision-Making",
+                            "presenter": "Joachim Baumann",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings",
+                            "presenter": "Marlene Lutz",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Explainable Artificial Intelligence as a Generic Data Analysis Tool",
+                            "presenter": "Maria Sahakyan",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Einar Lundsgaard",
@@ -862,8 +1770,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "BREAKING NEWS: Psycholinguistic and Behavioural Differences in (Un)-Trustworthy Online News Source Interaction",
+                            "presenter": "Pietro Alessandro Aluffi",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Not sticking by the rules: how the use of standard language varies with socio-economic status and social mixing.",
+                            "presenter": "Thomas Louf",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Investigating grammatical variation in African American English on Twitter",
+                            "presenter": "Tessa Masis",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Linguistic Complexity Reduces the Perceived Validity of Moral Arguments",
+                            "presenter": "Federico Barrera Lemarchand",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Semantic Analysis of Formal Policies and Community Practices in OSS",
+                            "presenter": "Mahasweta Chakraborti",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Modeling Information Change in Science Communication with Semantically Matched Paraphrases",
+                            "presenter": "Dustin Wright",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Henrik Dam",
@@ -876,8 +1810,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Assortative and preferential attachment lead to core-periphery networks",
+                            "presenter": "Javier Urena-Carrion",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Randomized reference models for temporal networks",
+                            "presenter": "Mathieu Genois",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Piecewise-Velocity Model for Learning Continuous-time Dynamic Node Representations",
+                            "presenter": "Abdulkadir Celikkanat",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Reaching consensus in temporal network epistemology model",
+                            "presenter": "Damian Serwata",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Node Ranking Dynamics:Non Preferential Patterns",
+                            "presenter": "Shahar Somin",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "A Branch-and-Cut Method for Globally Maximizing Modularity and Discovering Network Communities",
+                            "presenter": "Samin Aref",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Nielsine Nielsen",
@@ -890,8 +1850,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "A Mobility-constrained Segregation Model",
+                            "presenter": "Giovanni Mauro",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Exploring the effect of cognitive diversity, flexibility and interaction on joint semantic search: an agent-based simulation",
+                            "presenter": "Roberta Rocca",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Political coherence as a driver of interpersonal liking and ideological sorting",
+                            "presenter": "Federico Zimmerman",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Exploring urban scenarios that facilitate individual waste sorting in cities: Embedding the Theory of Planned Behavior (TPB) into a spatial Agent-Based model.",
+                            "presenter": "Jonathan Cohen",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "On Learning Agent-Based Models from Data",
+                            "presenter": "Gianmarco De Francisci Morales",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Agent-based modeling for modular theory comparison",
+                            "presenter": "Matthew Bone",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Holst",
@@ -904,8 +1890,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Exploring the Use of Twitter Volume, Sentiment, and Content as a Proxy Measure of US Homelessness",
+                            "presenter": "Yoshi Bird",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "A Mixed-method Approach to Analyze Deepfake-related discussions on Reddit and Twitter",
+                            "presenter": "Dilrukshi Gamage Gamage",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Behavioral classes of radicalization within the QAnon conspiracy on Twitter",
+                            "presenter": "Francesco Pierri",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "Cable and Broadcast News Intermedia Agenda Setting Across the COVID-19 Issue Attention Cycle",
+                            "presenter": "Ceren Budak",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Two Years of Influence: Tracking Changes in Twitter Influencer Diets in United States Politics",
+                            "presenter": "Andrew Beers",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Self-induced consensus formation among Reddit users on the GameStop short squeeze",
+                            "presenter": "Antonio Desiderio",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 13.1.41",
@@ -918,8 +1930,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Recurring patterns within Reddit communities during exogenous events",
+                            "presenter": "Antonio Desiderio",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Network-based Approach to User Engagement and Coordination during the Russo-Ukrainian War",
+                            "presenter": "Wentao Xu",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Terror attacks impact online immigration discourses. Is it due to how people talk or who is talking?",
+                            "presenter": "Anastasiia Menshikova",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "A Crowdsourced Map of YouTube Recommendations during the Brazilian 2022 Elections",
+                            "presenter": "Chico Camargo",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Quantifying Changes in Student Behaviors During COVID-19 with Non-negative Matrix Factorization",
+                            "presenter": "Nicol\u221a\u2264 Alessandro Girardini",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "Media attention prior to unexpected events determines their impact on public opinion",
+                            "presenter": "Anastasiia Menshikova",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 13.1.63",
@@ -932,8 +1970,34 @@
                     "end_time": "12:30",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Uncovering the universal nature of citation networks: From science of science to law of law and patterns of patents",
+                            "presenter": "Robert Mahari",
+                            "presentation_time": "11:00"
+                        },
+                        {
+                            "title": "Internal and international migration of scholars worldwide",
+                            "presenter": "Aliakbar Akbaritabar",
+                            "presentation_time": "11:15"
+                        },
+                        {
+                            "title": "Impact of heterogenous terminologies in study of sexism across disciplines",
+                            "presenter": "Aditi Dutta",
+                            "presentation_time": "11:30"
+                        },
+                        {
+                            "title": "How Science Informs International Policy: a Network Analysis",
+                            "presenter": "Yurie Iwata",
+                            "presentation_time": "11.45"
+                        },
+                        {
+                            "title": "Measuring Transfer of In-Practice CS Literature through Patent-Research Citation Analysis",
+                            "presenter": "Yingxuan Liu",
+                            "presentation_time": "12:00"
+                        },
+                        {
+                            "title": "The potential of benchmarks for the social sciences: Lessons learned and future work",
+                            "presenter": "Paulina Pankowska",
+                            "presentation_time": "12:15"
                         }
                     ],
                     "room": "Room 7.15.92",
@@ -946,8 +2010,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Urban scaling laws arise from  within-city inequalities",
+                            "presenter": "Martin Arvidsson",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Pubs, schools and places of worship: scaling laws in rural England",
+                            "presenter": "Matthew Sharpe",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Amenity complexity and urban locations of socio-economic mixing",
+                            "presenter": "Sandor Juhasz",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Learning urban areas from tourist data: a case study with spatially constrained clustering and Airbnb data",
+                            "presenter": "Francesco Silvestri",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "ATG: a framework to characterize accessibility to public green in urban environment",
+                            "presenter": "Alice Battiston",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Idiosyncratic and systematic experienced isolation in urban networks",
+                            "presenter": "Andrew Renninger",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Niels K. Jerne",
@@ -960,8 +2050,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "The Dual Clustering of Tastes and Ties: Network Motifs for Cultural Consumption",
+                            "presenter": "Xinwei Xu",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "In vino veritas: Are the opinions of wine critics more informative than those of amateurs?",
+                            "presenter": "Pantelis Pipergias Analytis",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Exploring multi-dimensional concept of well-being thorough geometry of culture approach",
+                            "presenter": "Zeyu Lyu",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "The Emergence of Status Orders in Hollywood Filmmaking. Evolution of a Cultural Field, 1920 to 2000",
+                            "presenter": "Katharina Burgdorf",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Network Dynamics and Culture Re-Use: The Growth of 'Sampling' in the Music Market",
+                            "presenter": "Simone Santoni",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Ethnic succession in US restaurant review framing",
+                            "presenter": "Yiwei Luo",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Einar Lundsgaard",
@@ -974,8 +2090,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Collective implementation of the Fermi method underlies the wisdom of deliberative crowds",
+                            "presenter": "Laura Victoria Lescano Charreau",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Measuring Economization with Diachronic Word Embeddings",
+                            "presenter": "Simon Walo",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Impact of narrative sentiment reversals on story success",
+                            "presenter": "Samsun Knight",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "From the Boardroom to the Bedroom:  The Expansion and Abstraction of Management as a Cultural Logic",
+                            "presenter": "Ziwen Chen",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "\u201a\u00c4\u00faI Heard It on the (Silk) Road\u201a\u00c4\u00f9: Structural and Cultural Pathways to Novelty Introduction in an Online Community",
+                            "presenter": "Ana Macanovic",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Measuring Ambiguity in Cultural Meaning",
+                            "presenter": "Aidan Combs",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Henrik Dam",
@@ -988,8 +2130,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Multiscale semiwalk-based measure of structural balance in signed networks",
+                            "presenter": "Andreia Sofia Teixeira",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Real-time visualization of large networks and embeddings",
+                            "presenter": "Filipi Nascimento Silva",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Network Segregatio n Bubble Size",
+                            "presenter": "Edwin De Jonge",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Opinion Formation in a Model Twitter Network",
+                            "presenter": "Nathaniel Holers",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Entropy and fragmentation in socio-semantic networks",
+                            "presenter": "Lena Mangold",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "How Graph Neural Networks help to analyze the temporal evolution of the French Presidential campaign on Twitter",
+                            "presenter": "Ferdinand Le Coz",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Nielsine Nielsen",
@@ -1002,8 +2170,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Characterizing networks of hate on Nigerian Twitter",
+                            "presenter": "Manuel Tonneau",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Crowdsourcing to Identify Hateful Memes: A Human-in-the-Loop Approach",
+                            "presenter": "Jia-Ru Song",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Improving discourse quality in online discussions: A large-scale, longitudinal study of influencing speech characteristics",
+                            "presenter": "Alina Herderich",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Network interventions to reduce hate speech on Nigerian Twitter",
+                            "presenter": "Blas Kolic",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "How does providing users with the choice to avoid toxic political content impact their experience on social media?",
+                            "presenter": "Fatemah Alqabandi",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Outrage by design: How social media metrics make our news more toxic and uncivil",
+                            "presenter": "Tian Yang",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Holst",
@@ -1016,8 +2210,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Channels of war: Exploring Ukrainian and Russian Telegramspheres during the Russian invasion of Ukraine",
+                            "presenter": "Aleksandra Urman",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "Emotion in the European Political Language",
+                            "presenter": "Vincent Verger",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Media Slant as Political Refraction: Measuring the Ideological Diversity of the French Media Landscape",
+                            "presenter": "Felix Lennert",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Quotatives Indicate Decline in Objectivity in U.S. Political News",
+                            "presenter": "Tiancheng Hu",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "BERTAgent: A Novel Tool for Quantifying Linguistic Agency: Development, Validation and an Application in the 2020 U.S. Election Tweets",
+                            "presenter": "Jan Nikadon",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "The multi-modal frames of German politicians' personalization on Instagram",
+                            "presenter": "Yuru Li",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 13.1.41",
@@ -1030,8 +2250,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "The Effect of the Covid-19 Pandemic on News Consumption: An Interrupted Time Series Analysis spanning Three Asian Countries",
+                            "presenter": "Subhayan Mukerjee",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "On the Impact of Political View to the Pandemic Outcomes",
+                            "presenter": "Roney Reis De Castro E Silva",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Investigating decision accountability and trustworthiness with dominance-based rough sets analysis. How fair were COVID19 restrictions?",
+                            "presenter": "Edward Abel",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Disparities in greenspace access during COVID-19 mobility restrictions",
+                            "presenter": "David Lusseau",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Decoding the Discourse: Analyzing the Linguistic Features and Strategies behind the Querdenken Movement's COVID-19 Narrative",
+                            "presenter": "Alexander Sobieska",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "none",
+                            "presenter": "none",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 13.1.63",
@@ -1044,8 +2290,34 @@
                     "end_time": "16:00",
                     "presentations": [
                         {
-                            "title": "",
-                            "speaker": ""
+                            "title": "Quantifying Systemic Gender Inequality in Visual Art",
+                            "presenter": "Alexander Gates",
+                            "presentation_time": "14:30"
+                        },
+                        {
+                            "title": "The Innovation Glass Ceiling and the Female Creative Penalty",
+                            "presenter": "Tara Sowrirajan",
+                            "presentation_time": "14:45"
+                        },
+                        {
+                            "title": "Municipal-Level Gender Norms: Measurement and Effects on Women in Politics",
+                            "presenter": "Luisa Carrer",
+                            "presentation_time": "15:00"
+                        },
+                        {
+                            "title": "Gender differences in Moral Valence, Sentiment, and Narratives of Song Lyrics Over Time",
+                            "presenter": "Vjosa Preniqi",
+                            "presentation_time": "15:15"
+                        },
+                        {
+                            "title": "Technological Change and the Gender Pay Gap:  Evidence from an U.S. Online Labour Market",
+                            "presenter": "Ole Teutloff",
+                            "presentation_time": "15:30"
+                        },
+                        {
+                            "title": "Age-based Gender Inequality in over One Million Images from Google, Wikipedia, and IMDb",
+                            "presenter": "Douglas Guilbeault",
+                            "presentation_time": "15:45"
                         }
                     ],
                     "room": "Room 7.15.92",
@@ -1059,7 +2331,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
@@ -1073,7 +2346,8 @@
                     "presentations": [
                         {
                             "title": "",
-                            "speaker": ""
+                            "presenter": "",
+                            "presentation_time": ""
                         }
                     ],
                     "room": "Atrium",
