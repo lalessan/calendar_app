@@ -83,9 +83,20 @@ function populateTable(dayIndex) {
 
           if (!cell.textContent) {
             let duration = endTime - startTime;
-            cell.textContent = session.title;
+            let title = document.createElement('a');
+            title.textContent = session.title;
+            title.href = `session-details.html?session=${encodeURIComponent(JSON.stringify(session))}`;
+            title.classList.add('session-title'); // Add class for styling
+            cell.appendChild(title);
             cell.rowSpan = duration;
             cell.style.backgroundColor = session.color; // Add color to the cell
+            // Add class to session cells and update event listener
+            if (!cell.classList.contains('session-cell')) {
+              cell.classList.add('session-cell');
+              cell.addEventListener('click', function () {
+                showSessionDetails(session);
+              });
+            }
             // Update cellSpans for all cells this one spans over
             for (let i = 0; i < duration; i++) {
               if (cellSpans[rowIndex + i][roomIndex] === 0) {
@@ -98,6 +109,14 @@ function populateTable(dayIndex) {
     }
   });
 }
+
+function showSessionDetails(session) {
+  // Create a URL with session details
+  let url = `session-details.html?session=${encodeURIComponent(JSON.stringify(session))}`;
+  // Redirect to the session details page
+  window.location.href = url;
+}
+
 
 function formatTime(startHours, startMinutes, endHours, endMinutes) {
   let startTime = `${String(startHours).padStart(2, '0')}:${String(startMinutes).padStart(2, '0')}`;

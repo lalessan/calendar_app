@@ -15,9 +15,14 @@ body {
   overflow: hidden; /* Hide overflow to prevent the light gray border */
 }
 
-.container h1 {
+.container h1, .container h2 {
   text-align: center;
   margin-bottom: 20px;
+}
+
+.container ul {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 #day-select {
@@ -41,12 +46,10 @@ body {
 #session-table td {
   padding: 10px;
   text-align: center;
-  background-color: #fff; /* Set background color to white */
   border-spacing: 10px;
   border-collapse: separate;
   border-radius: 10px; /* Add rounded corners */
   border: 1px solid #ddd;
-
 }
 
 #session-table th {
@@ -70,3 +73,16 @@ a:hover {
 }
 
 
+.session-cell {
+  cursor: pointer;
+}
+
+.session-cell:hover {
+  background-color: #f0f0f0;
+}
+
+
+.session-cell:hover .session-title {
+  text-decoration: underline;
+  color:#f0f0f0;
+}

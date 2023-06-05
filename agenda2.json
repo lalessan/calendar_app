@@ -376,6 +376,710 @@
                     "color": "#068DA9"
                 }
             ]
+        },
+        {
+            "day": "Jul 19",
+            "sessions": [
+                {
+                    "title": "Coffee Break",
+                    "time": "10:30 - 11:00",
+                    "start_time": "10:30",
+                    "end_time": "11:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        },
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#068DA9"
+                },
+                {
+                    "title": "Keynote 4",
+                    "time": "9:00 - 9:45",
+                    "start_time": "9:00",
+                    "end_time": "9:45",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Keynote 5",
+                    "time": "16:30 - 17:15",
+                    "start_time": "16:30",
+                    "end_time": "17:15",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Keynote 6",
+                    "time": "17:15 - 18:00",
+                    "start_time": "17:15",
+                    "end_time": "18:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Lightning talk 2",
+                    "time": "9:45 - 10:30",
+                    "start_time": "9:45",
+                    "end_time": "10:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Lunch",
+                    "time": "12:30 - 13:30",
+                    "start_time": "12:30",
+                    "end_time": "13:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#068DA9"
+                },
+                {
+                    "title": "Parallel Session 1",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 2",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Einar Lundsgaard",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 3",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Henrik Dam",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 4",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Nielsine Nielsen",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 5",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Holst",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 6",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.41",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 7",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.63",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 8",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 7.15.92",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 1",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 2",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Einar Lundsgaard",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 3",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Henrik Dam",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 4",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Nielsine Nielsen",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 5",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Holst",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 6",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.41",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 7",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.63",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 8",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 7.15.92",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Poster",
+                    "time": "13:30 - 14:30",
+                    "start_time": "13:30",
+                    "end_time": "14:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Registration",
+                    "time": "8:00 - 9:00",
+                    "start_time": "8:00",
+                    "end_time": "9:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#068DA9"
+                }
+            ]
+        },
+        {
+            "day": "Jul 20",
+            "sessions": [
+                {
+                    "title": "Closing",
+                    "time": "16:30 - 16:45",
+                    "start_time": "16:30",
+                    "end_time": "16:45",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#068DA9"
+                },
+                {
+                    "title": "Coffee Break",
+                    "time": "10:30 - 11:00",
+                    "start_time": "10:30",
+                    "end_time": "11:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        },
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#068DA9"
+                },
+                {
+                    "title": "Keynote 10",
+                    "time": "17:30 - 18:15",
+                    "start_time": "17:30",
+                    "end_time": "18:15",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Keynote 7",
+                    "time": "9:00 - 9:45",
+                    "start_time": "9:00",
+                    "end_time": "9:45",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Keynote 8",
+                    "time": "9:45 - 10:30",
+                    "start_time": "9:45",
+                    "end_time": "10:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Keynote 9",
+                    "time": "16:45 - 17:30",
+                    "start_time": "16:45",
+                    "end_time": "17:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#E55807"
+                },
+                {
+                    "title": "Lunch",
+                    "time": "12:30 - 13:30",
+                    "start_time": "12:30",
+                    "end_time": "13:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#068DA9"
+                },
+                {
+                    "title": "Parallel Session 1",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 2",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Einar Lundsgaard",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 3",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Henrik Dam",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 4",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Nielsine Nielsen",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 5",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Holst",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 6",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.41",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 7",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.63",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel Session 8",
+                    "time": "11:00 - 12:30",
+                    "start_time": "11:00",
+                    "end_time": "12:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 7.15.92",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 1",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Niels K. Jerne",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 2",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Einar Lundsgaard",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 3",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Henrik Dam",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 4",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Nielsine Nielsen",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 5",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Holst",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 6",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.41",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 7",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 13.1.63",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Parallel session 8",
+                    "time": "14:30 - 16:00",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Room 7.15.92",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Poster",
+                    "time": "13:30 - 14:30",
+                    "start_time": "13:30",
+                    "end_time": "14:30",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#ECF8F9"
+                },
+                {
+                    "title": "Registration",
+                    "time": "8:00 - 9:00",
+                    "start_time": "8:00",
+                    "end_time": "9:00",
+                    "presentations": [
+                        {
+                            "title": "",
+                            "speaker": ""
+                        }
+                    ],
+                    "room": "Atrium",
+                    "color": "#068DA9"
+                }
+            ]
         }
     ]
 }
