@@ -42,7 +42,8 @@ body {
   display: none;
 }
 
-#agenda-content, #search-content {
+#agenda-content,
+#search-content {
   padding: 10px;
 }
 
@@ -51,6 +52,7 @@ body {
   width: 100%;
   border-spacing: 10px;
   border-collapse: separate;
+  overflow-x: auto; /* Enable horizontal scrolling */
 }
 
 #agenda-content th,
@@ -124,4 +126,3 @@ body {
     font-size: 14px;
   }
 }
-
