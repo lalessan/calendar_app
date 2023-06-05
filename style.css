@@ -11,20 +11,104 @@ body {
   padding: 10px;
   background-color: #fff;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  overflow: hidden;
+  border-radius: 10px; /* Add border-radius to container */
+  overflow: hidden; /* Hide overflow to prevent the light gray border */
+  overflow-x: auto; /* Enable horizontal scrolling */
 }
 
-.container h1 {
+.container h1,
+.container h2 {
   text-align: center;
   margin-bottom: 20px;
-  font-size: 32px;
+}
+
+.container ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#day-select {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+#session-table {
+  margin: auto;
+  width: fit-content;
+  white-space: nowrap;
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+
+#session-table th,
+#session-table td {
+  padding: 10px;
+  text-align: center;
+  border-spacing: 10px;
+  border-collapse: separate;
+  border-radius: 10px; /* Add rounded corners */
+  border: 1px solid #ddd;
+  min-width: 50px;
+  width:10%;
+}
+
+#session-table th {
+  background-color: transparent; /* Remove the background color */
+  color: #000; /* Set the text color to black */
+}
+
+#session-table td:nth-child(1) {
+  color: #333;
+  font-weight: bold;
+  text-align: right;
+}
+
+
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4caf50;
+}
+
+.session-cell {
+  cursor: pointer;
+}
+
+.session-cell:hover {
+  background-color: #f0f0f0;
+}
+
+.session-cell:hover .session-title {
+  text-decoration: underline;
+  color: #f0f0f0;
+}
+
+/* Existing CSS styles */
+
+#search-form {
+  margin-bottom: 20px;
+}
+
+#search-input {
+  width: 200px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.tab-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 
 #tabs {
   display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
 }
 
 .tab {
@@ -42,87 +126,14 @@ body {
   display: none;
 }
 
-#agenda-content,
-#search-content {
-  padding: 10px;
-}
+/* Mobile-specific styles */
 
-#agenda-content table {
-  margin: 20px auto;
-  width: 100%;
-  border-spacing: 10px;
-  border-collapse: separate;
-  overflow-x: auto; /* Enable horizontal scrolling */
-}
-
-#agenda-content th,
-#agenda-content td {
-  padding: 10px;
-  text-align: center;
-  border-spacing: 10px;
-  border-collapse: separate;
-  border-radius: 10px;
-  border: 1px solid #ddd;
-}
-
-#agenda-content th {
-  background-color: transparent;
-  color: #000;
-  font-size: 16px;
-}
-
-#agenda-content td:nth-child(1) {
-  color: #333;
-  font-weight: bold;
-  text-align: right;
-}
-
-#search-form {
-  margin-bottom: 20px;
-}
-
-#search-input {
-  width: 100%;
-  padding: 10px;
-  font-size: 16px;
-}
-
-#search-results {
-  margin-top: 20px;
-}
-
-.search-result {
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 10px;
-  margin-bottom: 10px;
-}
-
-.session-details {
-  margin-bottom: 10px;
-}
-
-.presentation-details {
-  margin-top: 10px;
-}
-
-/* Mobile styles */
 @media screen and (max-width: 768px) {
   .container {
-    margin: 10px;
-    padding: 5px;
+    overflow-x: scroll;
   }
 
-  .container h1 {
-    font-size: 24px;
-    margin-bottom: 10px;
-  }
-
-  #agenda-content table {
-    font-size: 14px;
-  }
-
-  #agenda-content th {
-    font-size: 14px;
+  #session-table {
+    min-width: 800px;
   }
 }
