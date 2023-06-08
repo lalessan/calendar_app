@@ -46,3 +46,4 @@ function displaySessionDetails(session) {
     presentationListElement.appendChild(presentationItem);
   });
 }
+

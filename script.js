@@ -1,5 +1,4 @@
-const rooms = ["Atrium", "Niels K. Jerne", "Einar Lundsgaard", "Henrik Dam", "Nielsine Nielsen", "Holst", "Room 13.1.41", "Room 13.1.63", "Room 7.15.92"];
-
+const rooms = ['Atrium','A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
 let data; // Global variable to store the agenda data
 
 fetch('agenda2.json')
@@ -22,6 +21,8 @@ function populateDays() {
     populateTable(this.value);
   });
 }
+
+
 
 function populateTable(dayIndex) {
   let table = document.getElementById('session-table');
@@ -56,7 +57,9 @@ function populateTable(dayIndex) {
     // calculate which row (time slot) to add the session to
     let startTime = parseInt(session.start_time.split(':')[0]) * 4 + parseInt(session.start_time.split(':')[1]) / 15 - 32; // start from 8:00
     let endTime = parseInt(session.end_time.split(':')[0]) * 4 + parseInt(session.end_time.split(':')[1]) / 15 - 32; // start from 8:00
-    let roomIndex = rooms.findIndex(room => session.room.includes(room));
+    
+    let roomIndex = rooms.findIndex(room => session.room === room);
+    console.log(session.room, roomIndex)
     if (roomIndex !== -1) {
       for (let rowIndex = startTime + 1; rowIndex < endTime + 1; rowIndex++) {
         let row;
