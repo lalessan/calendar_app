@@ -70,7 +70,7 @@ function populateTable(dayIndex) {
           // Add time slot cell
           let timeSlotCell = row.insertCell();
           timeSlotCell.textContent = formatTime(Math.floor((rowIndex - 1 + 32) / 4), ((rowIndex - 1 + 32) % 4) * 15, Math.floor((rowIndex - 1 + 33) / 4), ((rowIndex - 1 + 33) % 4) * 15);
-          timeSlotCell.style.width = '100px'; // Adjust the width as desired
+          timeSlotCell.classList.add('time-cell'); // Add the time-cell class here
 
           // Add cells for each room
           for (let i = 0; i < rooms.length; i++) {
@@ -88,11 +88,38 @@ function populateTable(dayIndex) {
 
           if (!cell.textContent) {
             let duration = endTime - startTime;
+            //let title = document.createElement('a');
+            //title.textContent = session.title;
+            //title.href = `session-details.html?session=${encodeURIComponent(JSON.stringify(session))}`;
+            //title.classList.add('session-title'); // Add class for styling
+            //cell.appendChild(title);
+
+            // Add the session title
             let title = document.createElement('a');
             title.textContent = session.title;
             title.href = `session-details.html?session=${encodeURIComponent(JSON.stringify(session))}`;
             title.classList.add('session-title'); // Add class for styling
             cell.appendChild(title);
+
+            // Array of rooms where presentations and presenters will be displayed
+            let specificRooms = ['A','B','C','D','E','F','G','H']; // Update with your specific rooms
+
+            if (specificRooms.includes(session.room)) {
+              // Add each presentation and presenter to the cell
+                session.presentations.forEach(presentation => {
+
+                  let p = document.createElement('p');
+                  p.textContent = presentation.title + '. ';
+                  p.classList.add('session-presentation');
+                  
+                  let presenterName = document.createElement('strong');
+                  presenterName.textContent = presentation.presenter;
+                  p.appendChild(presenterName);
+                  p.classList.add('session-presentation');
+                  cell.appendChild(p);
+                });
+            }
+
             cell.rowSpan = duration;
             cell.style.backgroundColor = session.color; // Add color to the cell
             // Add class to session cells and update event listener
@@ -114,6 +141,9 @@ function populateTable(dayIndex) {
     }
   });
 }
+
+
+
 
 function showSessionDetails(session) {
   // Create a URL with session details

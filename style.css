@@ -37,20 +37,19 @@ body {
 #session-table {
   margin: auto;
   width: fit-content;
-  white-space: nowrap;
+  /* white-space: nowrap;*/
   border-spacing: 10px;
   border-collapse: separate;
 }
 
 #session-table th,
 #session-table td {
-  padding: 10px;
-  text-align: center;
+  padding: 8px;
+  text-align: left;
   border-spacing: 10px;
   border-collapse: separate;
   border-radius: 10px; /* Add rounded corners */
-  border: 1px solid #ddd;
-  min-width: 50px;
+  min-width: 300px; /* Increase the min-width */
   width:10%;
 }
 
@@ -63,9 +62,15 @@ body {
   color: #333;
   font-weight: bold;
   text-align: right;
+  max-width: 50px; /* Increase the min-width */
 }
 
 
+#session-table th.time-cell,
+#session-table td.time-cell {
+  width: 50px !important; /* Increase the min-width */
+  min-width: 50px !important; /* Adjust the min-width as desired */
+}
 
 a {
   color: #333;
@@ -78,15 +83,26 @@ a:hover {
 
 .session-cell {
   cursor: pointer;
+  width: 100%;
+  vertical-align: top; /* Add this line */
 }
 
 .session-cell:hover {
   background-color: #f0f0f0;
 }
 
+.session-title {
+  font-weight: bold;
+}
+
 .session-cell:hover .session-title {
   text-decoration: underline;
   color: #f0f0f0;
+}
+
+#session-table .session-presentation {
+  font-size: small;
+  text-align: left;
 }
 
 /* Existing CSS styles */
