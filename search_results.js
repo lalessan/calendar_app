@@ -63,6 +63,7 @@ function displaySearchResults(presentations, day, keyword) {
       abstractLink.href = presentation.link;
       abstractLink.textContent = '[abstract]';
       abstractLink.target = '_blank'; // Open in a new tab
+      presentationTitle.classList.add('abstract-link');
       presentationTitle.appendChild(abstractLink);
 
     }

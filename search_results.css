@@ -65,6 +65,10 @@ h1 {
     margin-bottom: 5px;
 }
 
+.abstract-link{
+    font-weight: bold;
+}
+
 .authors {
     margin-top: 5px;
     font-style: italic;
@@ -105,8 +109,9 @@ h1 {
     }
 
 
-    .title a{
+    .abstract-link{
         font-size: 14px;
+        font-weight: bold;
     }
 
 }
