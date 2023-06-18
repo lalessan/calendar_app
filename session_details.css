@@ -107,3 +107,56 @@ h1 {
 .bio {
   margin-top: 10px; /* Adjust the desired spacing */
 }
+
+
+/* Mobile styles */
+@media only screen and (max-width: 600px) {
+  .container {
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding: 10px; /* Add some padding for better spacing */
+  }
+
+  .session-title {
+    font-size: 20px; /* Adjust the font size for smaller screens */
+    margin-bottom: 30px; /* Increase the margin for better spacing */
+  }
+
+  .session-time, .session-room {
+    font-size: 12px; /* Adjust the font size for smaller screens */
+  }
+
+  .presentation-list {
+    margin-top: 10px; /* Adjust the margin for better spacing */
+  }
+
+  .presentation-item {
+    margin-bottom: 15px; /* Adjust the margin for better spacing */
+  }
+
+  .time {
+    width: 60px; /* Adjust the width for smaller screens */
+    font-size: 12px; /* Adjust the font size for smaller screens */
+  }
+
+  .presentation-info {
+    margin-left: 10px; /* Add some left margin for better spacing */
+  }
+
+  .title {
+    font-size: 14px; /* Adjust the font size for smaller screens */
+    margin-bottom: 5px; /* Decrease the margin for better spacing */
+  }
+
+  .abstract {
+    margin-bottom: 5px; /* Decrease the margin for better spacing */
+  }
+
+  .bio {
+    margin-top: 5px; /* Decrease the margin for better spacing */
+  }
+
+  .back-link {
+    margin-top: 15px; /* Adjust the margin for better spacing */
+  }
+}
