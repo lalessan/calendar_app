@@ -79,6 +79,10 @@ body {
 }
 
 
+.clickable-session .session-title{
+  text-decoration: underline;
+
+}
 
 .clickable-session:hover {
   /* Define your hover styles here */
