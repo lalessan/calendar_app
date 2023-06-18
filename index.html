@@ -2,48 +2,29 @@
 <html>
 <head>
     <title>Conference Agenda</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
+    <style>
+        /* Add your custom styles here */
+    </style>
+    <link rel="stylesheet" href="styles.css"> <!-- Add the path to your CSS file -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
 </head>
 <body>
     <div class="container">
-        <h1>Conference Agenda</h1>
-        <div id="tabs">
-            <div id="agenda-tab" class="tab active">Agenda</div>
-            <div id="search-tab" class="tab">Search by Author</div>
-        </div>
-
-        <div id="agenda-content" class="tab-content">
+        <div class="day-selector">
+            <label for="day-select">Select a day:</label>
             <select id="day-select"></select>
-            <table id="session-table">
-                <thead>
-                    <tr>
-                        <th>Time</th>
-                        <th>Atrium</th>
-                        <th>A</th>
-                        <th>B</th>
-                        <th>C</th>
-                        <th>D</th>
-                        <th>E</th>
-                        <th>F</th>
-                        <th>G</th>
-                        <th>H</th>
-                    </tr>
-                </thead>
-                <tbody></tbody>
-            </table>
         </div>
-
-        <div id="search-content" class="tab-content">
-            <form id="search-form">
-                <input type="text" id="search-input" placeholder="Search by author or keyword">
-                <button type="submit">Search</button>
-            </form>
-            <div id="search-results"></div>
+        <div class="search-bar">
+            <label for="search-input">Search by author or keyword:</label>
+            <input type="text" id="search-input" placeholder="">
+            <button id="search-button">Search</button>
         </div>
     </div>
+
+    <table id="schedule">
+        <thead id="timeSlots"></thead>
+        <tbody id="rooms"></tbody>
+    </table>
+    <script src="agenda.js"></script>
 </body>
 </html>
-
-

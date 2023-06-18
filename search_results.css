@@ -1,0 +1,79 @@
+body {
+    font-family: Source Sans Pro, sans-serif;
+    background: #f3f3f3 url(https://www.ic2s2.org/assets/css/images/overlay.png);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+.presentation-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.presentation-list li {
+    margin-bottom: 10px;
+}
+
+.back-link {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.back-link a {
+    color: #333;
+    text-decoration: none;
+}
+
+.back-link a:hover {
+    text-decoration: underline;
+}
+
+.search-result {
+    margin-bottom: 50px;
+}
+
+.session-details {
+    margin-top: 15px;
+}
+
+
+
+.session-time {
+    color: gray;
+}
+
+.presentation-details {
+    margin-top: 10px;
+}
+
+.presentation-time {
+    font-weight: bold;
+    color: #333;
+}
+
+.title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.authors {
+    margin-top: 5px;
+    font-style: italic;
+    color: gray;
+}

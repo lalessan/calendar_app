@@ -1,0 +1,161 @@
+body {
+  font-family: Source Sans Pro, sans-serif;
+  background: #f3f3f3 url(https://www.ic2s2.org/assets/css/images/overlay.png);
+
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.day-selector {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+#schedule {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-top: 50px;
+
+}
+
+
+
+#schedule th,
+#schedule td {
+  border: 1px solid #d3d3d3;
+  padding: 5px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  width: 60px; /* Adjust the value as per your requirements */
+
+}
+
+#schedule th:first-child,
+#schedule td:first-child,
+#schedule th:first-child td {
+  border: none;
+  width: 90px; /* Adjust the value as per your requirements */
+}
+
+#schedule th {
+  border-top: none;
+  border-left: none;
+   border-right: none;
+}
+
+.time-slot {
+  transform: rotate(-90deg);
+  border: none;
+  transform-origin: bottom left;
+  text-align: left;
+  transform: translate(+20%, +40%) rotate(-90deg);
+}
+
+
+.session-empty {
+  background-color: #FFFFFF;
+}
+
+.session {
+    background-color: #FFFFFF;
+    color: black;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 14px;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+
+
+
+.clickable-session:hover {
+  /* Define your hover styles here */
+  background-color: #E0E0E0; /* Change the background color on hover */
+  cursor: pointer; /* Add this line to change the mouse cursor */
+}
+
+.session .session-content {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.session-title {
+  font-weight: bold;
+}
+
+.presentations-list {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: left; /* Add this line to align the list items to the left */
+  font-size: 10px; /* Adjust the font size as desired */
+
+}
+.presentation-item {
+  display: flex;
+  align-items: left;
+}
+
+.presentation-time {
+  font-weight: bold;
+  width: 40px; /* Set the desired width for the presentation span */
+}
+
+.presentation-content {
+  display: flex;
+  flex-direction: column;
+  width: 400px; /* Set the desired width for the presentation span */
+
+}
+
+.presentation-title {
+  margin-bottom: 0;
+  align-items:left;
+}
+
+.presenter-name {
+  font-style: italic;
+  color: gray;
+  margin-bottom: 5px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+select, input[type="text"], button {
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0069d9;
+}

@@ -1,0 +1,17 @@
+id,session_number,session_id,session_name,room,day,day_part,time,submission_id,presenter_name,title,deltager_id,email,authors
+1,1,P1,Plenary talks first session,A,1,1,9.45,705,Jonas L Juul,The dynamics of writing style in scientific collaborations,0,jlju@dtu.dk,Jonas L Juul|Jon Kleinberg
+2,1,P1,Plenary talks first session,A,1,1,9.51,581,Chloe Ahn,Performative Capitalism in Silicon Valley: Examining Performative and Substantive Political Behaviors of U.S. Technology Companies,0,ahnjk@upenn.edu,Chloe Ahn|Xinyi Wang
+3,1,P1,Plenary talks first session,A,1,1,9.57,537,Giuseppe Russo,Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning,0,russog@ethz.ch,Giuseppe Russo|luca verginer|Manoel Horta Ribeiro|Giona Casiraghi
+4,1,P1,Plenary talks first session,A,1,1,10.03,383,Almog Simchon,The Microtargeting Manipulation Machine ,0,almog.simchon@bristol.ac.uk,Almog Simchon|Adam Sutton|Matthew Edwards|Stephan Lewandowsky
+5,1,P1,Plenary talks first session,A,1,1,10.09,518,Arianna Pera,Sentence-Level Explanations of Word Embeddings Associations,0,arpe@itu.dk,Arianna Pera|Manuel Vimercati|Matteo Palmonari
+6,1,P1,Plenary talks first session,A,1,1,10.15,730,Mohammed Alsobay,Mapping the Effect of Altruistic Punishment on Cooperation,0,mosobay@mit.edu,Mohammed Alsobay|Abdullah Almaatouq|David G. Rand|Duncan J. Watts
+7,1,P1,Plenary talks first session,A,1,1,10.21,725,Satyaki Sikdar,Social Contagion in Science,0,ssikdar@iu.edu,Sara Venturini|Satyaki Sikdar|Francesco Rinaldi|Francesco Tudisco|Santo Fortunato
+8,1,P1,Plenary talks first session,A,1,1,10.27,710,Isabella Loaiza,Big Moves: Tactics for early career success,0,isal@mit.edu,Isabella Loaiza|Takahiro Yabe|Alex Pentland
+9,2,P2,Plenary talks second session,A,2,1,9.45,418,Silvia De Sojo Caso,The motherhood penalty in mobility,0,sdsc@dtu.dk,Silvia De Sojo Caso|Mia Ann Jørgensen|Sune Lehmann|Laura Alessandretti
+10,2,P2,Plenary talks second session,A,2,1,9.51,158,Emil Bakkensen Johansen,Momentary Symbols: Tracing the Visual Expressions of Protest Movements,0,emilbj@sam.sdu.UK,Emil Bakkensen Johansen|Nicole Doerr|Mathias Wullum Nielsen
+11,2,P2,Plenary talks second session,A,2,1,9.57,220,Rubén Rodríguez Casañ,Prostitution in the digital age: a case study for Spain,0,rrodriguezcasan@uoc.edu,Rubén Rodríguez Casañ|Antonio Ariño Villarroya
+12,2,P2,Plenary talks second session,A,2,1,10.03,487,Sunny Rai,Studying Racial Heterogeneity in Language Markers of Depression,0,sunnyrai@seas.upenn.com,Sunny Rai|Ashley Francisco|Salvatore Giorgi|Brenda Curtis|Lyle Ungar|Sharath Chandra Guntuku
+13,2,P2,Plenary talks second session,A,2,1,10.09,505,Allison Koenecke,Popular Support for Equity in Algorithmic Decision-Making: A Case Study in Online Welfare Ads,0,koenecke@cornell.edu,Allison Koenecke|Eric Giannella|Robb Willer|Sharad Goel
+14,2,P2,Plenary talks second session,A,2,1,10.15,609,Ziv Epstein,Quantifying attention via dwell time and engagement in a social media browsing environment,0,zive@mit.edu,Ziv Epstein|Hause Lin
+15,2,P2,Plenary talks second session,A,2,1,10.21,550,Levin Brinkmann,Exploring the Evolution of Artistic Styles Using Generative AI and Influence Modeling,0,brinkmann@mpib-berlin.mpg.de,Levin Brinkmann|Bramantyo Supriyatno|Iyad Rahwan
+16,2,P2,Plenary talks second session,A,2,1,10.27,405,Sandro Ferreira Sousa,Quantifying ethnic segregation in cities through random walks,0,ssou@itu.dk,Sandro Ferreira Sousa|Vincenzo Nicosia

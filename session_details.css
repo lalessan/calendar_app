@@ -1,9 +1,10 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  font-family: Source Sans Pro, sans-serif;
+  background: #f3f3f3 url(https://www.ic2s2.org/assets/css/images/overlay.png);
   margin: 0;
   padding: 0;
 }
+
 
 .container {
   max-width: 800px;
@@ -23,6 +24,16 @@ h1 {
   font-weight: bold;
   margin-bottom: 50px;
 }
+
+.session-time {
+  font-weight: bold;
+}
+
+.session-room {
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
 
 .presentation-list {
   list-style-type: none;
@@ -77,8 +88,10 @@ h1 {
 
 }
 
-.presenter {
+.authors {
   margin-top: 0; /* Remove margin for better alignment */
+  font-style: italic;
+  color: gray;
 }
 
 .title {
@@ -87,3 +100,10 @@ h1 {
 
 }
 
+.abstract {
+  margin-bottom: 10px; /* Adjust the desired spacing */
+}
+
+.bio {
+  margin-top: 10px; /* Adjust the desired spacing */
+}
