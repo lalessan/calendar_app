@@ -103,10 +103,10 @@ h1 {
     .presentation-time {
        font-size: 12px;
     }
-    .abstract-link {
-       font-size: 12px;
+
+
+    .title a{
+        font-size: 14px;
     }
-
-
 
 }
