@@ -71,6 +71,7 @@ function displaySearchResults(presentations, day, keyword) {
     presenterElement.innerHTML = presentation.authors;
 
     const presentationTime = document.createElement('div');
+    presentationTime.classList.add('presentation-time');
     presentationTime.textContent = `Presentation Time: ${presentation.presentation_time}`;
 
     const sessionDetails = document.createElement('div');

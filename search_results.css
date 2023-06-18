@@ -58,14 +58,7 @@ h1 {
     color: gray;
 }
 
-.presentation-details {
-    margin-top: 10px;
-}
 
-.presentation-time {
-    font-weight: bold;
-    color: #333;
-}
 
 .title {
     font-weight: bold;
@@ -76,4 +69,41 @@ h1 {
     margin-top: 5px;
     font-style: italic;
     color: gray;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .back-link {
+        margin-top: 15px;
+    }
+
+    .presentation-time {
+        font-size: 12px;
+    }
+
+    .title {
+        font-size: 14px;
+    }
+
+    .authors {
+        font-size: 12px;
+    }
+    .session-details {
+     font-size: 12px;
+}
+    .presentation-time {
+       font-size: 12px;
+    }
+
+
+
 }
