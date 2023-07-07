@@ -14,12 +14,14 @@ body {
 
 .grid {
   position: relative;
+  width: 3800px;
 }
 
 
 .container {
-  position:absolute;
   height: 100%;
+  position: sticky;
+  left: 0;
   width: 90vw;
   display: flex; 
   justify-content: left; /* aligns horizontally */
@@ -245,7 +247,6 @@ button:hover {
 }
 
 .content-grid {
-    padding-top: 200px;
     display: grid;
     grid-template-columns: 3fr 1fr; /* This will give 3/4th width to your schedule and 1/4th to your additional info. */
     gap: 20px; /* This will provide space between your schedule and additional info */
