@@ -174,7 +174,7 @@ function generateRoomsAndSessions(roomsElement, rooms, sessions,day) {
 			var modal = document.getElementById('modal');
 			var modalImage = document.getElementById('modalImage');
 			modal.style.display = 'block';
-			modalImage.src = roomMapUrl;
+			modalImage.src = roomMapUrl.replace(" ","");
 		});
 	});
 
@@ -201,7 +201,7 @@ function generateRoomRow(roomsElement, room, roomSessions, day) {
 	const th = document.createElement('th');
 	th.innerText = room;
 	th.className = 'room'; // Assign a class name to the room name cell
-	th.dataset.roomMap = ` https://laura.alessandretti.com/public/${room}.png`.replace(" ",""); // Assign a data attribute with the image URL
+	th.dataset.roomMap = ` https://laura.alessandretti.com/public/images/${room}.png`.replace(" ",""); // Assign a data attribute with the image URL
 	roomRow.appendChild(th);
 
 // Fill the row with empty cells
