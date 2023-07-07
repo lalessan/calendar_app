@@ -60,10 +60,28 @@ document.addEventListener("DOMContentLoaded", function() {
 
       });
 
-      // Set the initial day to the first option
-      daySelect.selectedIndex = 0;
-      selectedDay = data.days[0].day;
-      
+      // Read the 'day' parameter from the URL
+          const searchParams = new URLSearchParams(window.location.search);
+          const urlDay = searchParams.get('day');
+
+          // If the 'day' parameter exists, select the correct day in the dropdown
+          if (urlDay) {
+            for (let i = 0; i < daySelect.options.length; i++) {
+              if (daySelect.options[i].text === urlDay) {
+                daySelect.selectedIndex = i;
+                selectedDay = urlDay;
+                break;
+              }
+            }
+          } else {
+            // If the 'day' parameter does not exist, select the first day
+            daySelect.selectedIndex = 0;
+            selectedDay = data.days[0].day;
+          }
+
+      const pageTitle = document.getElementById('pageTitle');
+      pageTitle.textContent = `IC2S2 Conference Agenda - ${selectedDay}`;
+
       // Generate the rooms and sessions for the selected day
       generateRoomsAndSessions(roomsElement, rooms[0], sortedSessions[0],selectedDay);
 
@@ -73,7 +91,10 @@ document.addEventListener("DOMContentLoaded", function() {
         const selectedRooms = rooms[selectedDayIndex];
         const selectedSessions = sortedSessions[selectedDayIndex];
         const selectedDay = data.days[selectedDayIndex].day;
-       
+
+        const pageTitle = document.getElementById('pageTitle');
+        pageTitle.textContent = `IC2S2 Conference Agenda - ${selectedDay}`;
+
         // Clear the current rooms and sessions
         clearRoomsAndSessions(roomsElement);
 
@@ -81,6 +102,7 @@ document.addEventListener("DOMContentLoaded", function() {
         generateRoomsAndSessions(roomsElement, selectedRooms, selectedSessions, selectedDay);
       });
 
+      daySelect.dispatchEvent(new Event('change'));
 
     });
 
@@ -135,11 +157,16 @@ document.addEventListener("DOMContentLoaded", function() {
         cell.addEventListener('click', function () {
           showSessionDetails(session,day);
         });
-        if (session.type === 'parallel' || session.type === 'keynote' || session.type === 'plenary' || session.type === 'poster' || session.type === 'other') {
+        if (session.type === 'parallel' || session.type === 'tutorial' ||session.type === 'keynote' || session.type === 'plenary' || session.type === 'poster' || session.type === 'other') {
           cell.classList.add('clickable-session');
         }
         const sessionContent = document.createElement('div');
         sessionContent.className = 'session-content';
+
+        const sessionRoom = document.createElement('div');
+        sessionRoom.className = 'session-room';
+        sessionRoom.innerText = session.room;
+        sessionContent.appendChild(sessionRoom);         
 
         const sessionTitle = document.createElement('div');
         sessionTitle.className = 'session-title';
@@ -272,7 +299,7 @@ function searchPresentations(keyword, sessions) {
 
 
 function showSessionDetails(session, day) {
-  const validSessionTypes = ["parallel", "keynote", "plenary", "poster", "other"];
+  const validSessionTypes = ["parallel", "keynote", "plenary", "poster", "other","tutorial"];
   if (validSessionTypes.includes(session.type)) {
     // Redirect to session_details.html with session ID and day as query parameters
     const sessionId = session.sessionId; // Assuming you have a unique identifier for each session

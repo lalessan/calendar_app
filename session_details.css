@@ -46,20 +46,23 @@ h1 {
   margin-bottom: 10px;
 }
 
+
 .back-link {
-  margin-top: 20px;
-  text-align: center;
+    text-align: center;
 }
-
 .back-link a {
-  color: #333;
-  text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #7084AB;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
 }
-
 .back-link a:hover {
-  text-decoration: underline;
+    background-color: #0056b3;
 }
-
 
 /* Existing CSS styles */
 
@@ -108,6 +111,22 @@ h1 {
   margin-top: 10px; /* Adjust the desired spacing */
 }
 
+.link_tutorial {
+    display: inline-block;
+    margin-top: 20px; /* adjust this value to add more or less space */
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.link_tutorial:hover {
+    background-color: #0056b3;
+}
+
 
 /* Mobile styles */
 @media only screen and (max-width: 600px) {
@@ -150,7 +169,6 @@ h1 {
     margin-top: 5px; /* Decrease the margin for better spacing */
   }
 
-  .back-link {
-    margin-top: 15px; /* Adjust the margin for better spacing */
-  }
+
+
 }

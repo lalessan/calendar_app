@@ -5,6 +5,10 @@ document.addEventListener('DOMContentLoaded', function () {
   const sessionId = searchParams.get('sessionId');
   const day = searchParams.get('day');
 
+  // Modify the back link to include the day parameter
+  const backLink = document.querySelector('.back-link a');
+  backLink.href += `?day=${day}`;
+
   if (sessionId && day) {
     // Fetch the session details based on the ID and day
     fetchSessionDetails()
@@ -52,7 +56,7 @@ function displaySessionDetails(session, day) {
   let presentationListElement = document.getElementById('presentation-list');
 
   // Set session title
-  sessionTitleElement.textContent = session.title;
+  sessionTitleElement.textContent = session.title.replace("STREAMING: ", "");
   // Set session details
   sessionDetailsElement.innerHTML = `
     <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
@@ -95,10 +99,14 @@ function displaySessionDetails(session, day) {
     presenterElement.classList.add('authors');
     presenterElement.innerHTML = presentation.authors;
 
-    presentationInfo.appendChild(titleElement);
-    presentationInfo.appendChild(presenterElement);
+
 
     if (session.type === 'poster') {
+      let posterBoardElement = document.createElement('div');
+      presentationTitle.textContent = `[Posterboard ${presentation.poster_board_id}]`+" "+presentation.title + " ";
+      presentationInfo.appendChild(titleElement);
+      presentationInfo.appendChild(presenterElement);
+      
       // Display the presentations as a bullet list
       let presentationsList = document.createElement('ul');
       presentationsList.classList.add('poster-presentations-list');
@@ -133,7 +141,31 @@ function displaySessionDetails(session, day) {
 
 
       presentationItem.appendChild(presentationInfo);
-    } else {
+    } else if (session.type === 'tutorial') {
+      // Add presentation abstract and bio
+      let abstractElement = document.createElement('div');
+      abstractElement.classList.add('abstract');
+      abstractElement.innerHTML = `<strong>Description: </strong>${presentation.abstract}`;
+
+      let bioElement = document.createElement('div');
+      bioElement.classList.add('bio');
+      bioElement.innerHTML = `<strong>Teachers: </strong>${presentation.presenter}`;
+
+
+      let linkElement = document.createElement('a');
+      linkElement.classList.add('link_tutorial');
+      linkElement.href = presentation.link;
+      linkElement.target = "_blank"; // This makes it open in a new tab.
+      linkElement.textContent = 'Link to website';
+
+      presentationInfo.appendChild(abstractElement);
+      presentationInfo.appendChild(bioElement);
+      presentationInfo.appendChild(linkElement);
+
+      presentationItem.appendChild(presentationInfo);
+    }else {
+      presentationInfo.appendChild(titleElement);
+      presentationInfo.appendChild(presenterElement);
       // For other session types, display as usual
       presentationItem.appendChild(timeElement);
       presentationItem.appendChild(presentationInfo);

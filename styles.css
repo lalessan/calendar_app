@@ -1,12 +1,28 @@
 body {
   font-family: Source Sans Pro, sans-serif;
   background: #f3f3f3 url(https://www.ic2s2.org/assets/css/images/overlay.png);
-
 }
+
+
+#pageTitle {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1; /* Optional: Ensure the title is always on top */
+}
+
 .container {
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    padding-top: 100px; /* Adjust based on the height of your title bar */
+    align-items: center;
+    margin-bottom: 20px;
 }
 
 .day-selector {
@@ -135,12 +151,7 @@ body {
   margin-bottom: 5px;
 }
 
-.container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-}
+
 
 label {
   font-weight: bold;
@@ -165,6 +176,7 @@ button:hover {
 }
 
 
+
 @media only screen and (max-width: 600px) {
   .container {
     flex-direction: column;
@@ -184,3 +196,4 @@ button:hover {
     font-size: 12px;
   }
 }
+
