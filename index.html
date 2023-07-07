@@ -10,23 +10,30 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
 </head>
 <body>
-    <h1 id="pageTitle">IC2S2 Conference Agenda</h1>
-    <div class="container">
-        <div class="day-selector">
-            <label for="day-select">Select a day:</label>
-            <select id="day-select"></select>
+    <div class="grid">
+        <div class="container">
+          <div class="title_container">
+            <h1 id="pageTitle">IC2S2 Conference Agenda</h1>
         </div>
-        <div class="search-bar">
-            <label for="search-input">Search by author or keyword:</label>
-            <input type="text" id="search-input" placeholder="">
-            <button id="search-button">Search</button>
+        <div class="selectors_container">
+            <div class="day-selector">
+                <label for="day-select">Select a day:</label>
+                <select id="day-select"></select>
+            </div>
+            <div class="search-bar">
+                <label for="search-input">Search by author or keyword:</label>
+                <input type="text" id="search-input" placeholder="">
+                <button id="search-button">Search</button>
+            </div>
         </div>
     </div>
+</div>
 
-    <table id="schedule">
-        <thead id="timeSlots"></thead>
-        <tbody id="rooms"></tbody>
-    </table>
-    <script src="agenda.js"></script>
+
+<table id="schedule">
+    <thead id="timeSlots"></thead>
+    <tbody id="rooms"></tbody>
+</table>
+<script src="agenda.js"></script>
 </body>
 </html>
