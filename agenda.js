@@ -112,11 +112,27 @@ fetch('agenda2.json')
 
 	});
 
+// Debouncing function
+function debounce(func, wait, immediate) {
+    var timeout;
+    return function() {
+        var context = this, args = arguments;
+        var later = function() {
+            timeout = null;
+            if (!immediate) func.apply(context, args);
+        };
+        var callNow = immediate && !timeout;
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+        if (callNow) func.apply(context, args);
+    };
+}
 
-window.addEventListener('scroll', function() {
-  var container = document.querySelector('.container');
-  container.style.left = window.scrollX + 'px';
-});
+let container = document.querySelector(".container");
+
+window.addEventListener('scroll', debounce(function() {
+    container.style.left = window.scrollX + "px";
+}, 20));
 
 function generateTimeSlots(timeSlotsElement) {
 	const emptyTh = document.createElement('th'); // Create an empty header cell
