@@ -63,7 +63,7 @@ body {
   overflow: hidden;
   text-align: center;
   text-overflow: ellipsis;
-  width: 60px; /* Adjust the value as per your requirements */
+  width: 70px; /* Adjust the value as per your requirements */
 
 }
 
@@ -129,7 +129,7 @@ body {
   list-style-type: none;
   padding-left: 0;
   text-align: left; /* Add this line to align the list items to the left */
-  font-size: 10px; /* Adjust the font size as desired */
+  font-size: 12px; /* Adjust the font size as desired */
 
 }
 .presentation-item {

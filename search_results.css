@@ -31,19 +31,21 @@ h1 {
 }
 
 .back-link {
-    margin-top: 20px;
     text-align: center;
 }
-
 .back-link a {
-    color: #333;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #7084AB;
+    color: white;
     text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
 }
-
 .back-link a:hover {
-    text-decoration: underline;
+    background-color: #0056b3;
 }
-
 .search-result {
     margin-bottom: 50px;
 }
