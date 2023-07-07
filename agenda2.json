@@ -144,7 +144,7 @@
                         {
                             "title": "The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy",
                             "presenter": "\u00c9tienne Ollion, Rubing Shen",
-                            "presentation_time": "10:30",
+                            "presentation_time": "11:00",
                             "link": "https://www.css.cnrs.fr/the-augmented-social-scientist-tutorial-at-ic2s2/",
                             "authors": "<u></u>",
                             "bio": "",
@@ -232,7 +232,7 @@
                         {
                             "title": "Capturing Human Values during Controversies ",
                             "presenter": "Yelena Mejova, Kyriaki Kalimeri, Giovanni Da San Martino, Oscar Araque",
-                            "presentation_time": "10:30",
+                            "presentation_time": "11:00",
                             "link": "https://propaganda.math.unipd.it/ic2s2-tutorial",
                             "authors": "<u></u>",
                             "bio": "",
@@ -320,7 +320,7 @@
                         {
                             "title": "Geospatial Data Science",
                             "presenter": "Michael Szell, Ane Rahbek Vier\u00f8, Anastassia Vybornova",
-                            "presentation_time": "10:30",
+                            "presentation_time": "11:00",
                             "link": "https://github.com/NERDSITU/gdstutorial",
                             "authors": "<u></u>",
                             "bio": "",
@@ -364,7 +364,7 @@
                         {
                             "title": "Creating multiplayer, interactive online experiments with Empirica",
                             "presenter": "Mohammed Alsobay, James Houghton",
-                            "presentation_time": "10:30",
+                            "presentation_time": "11:00",
                             "link": "https://docs.google.com/document/d/1h0AxdpxiC2UZGgQpHdPeBV6by412zIoDIdJsLFL_q2E/edit?usp=sharing",
                             "authors": "<u></u>",
                             "bio": "",
@@ -408,7 +408,7 @@
                         {
                             "title": "Thinking with Deep Learning: An exposition of deep (representation) learning for social science research",
                             "presenter": "James Evans, Bhargav Srinivasa Desikan",
-                            "presentation_time": "15:00",
+                            "presentation_time": "15:30",
                             "link": "https://github.com/bhargavvader/thinking-deep-learning-tutorial",
                             "authors": "<u></u>",
                             "bio": "",
@@ -423,14 +423,14 @@
                 },
                 {
                     "title": "STREAMING:\n Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART II)",
-                    "time": "15:30 - 15:00",
+                    "time": "15:30 - 17:00",
                     "start_time": "15:30",
-                    "end_time": "15:00",
+                    "end_time": "17:00",
                     "presentations": [
                         {
                             "title": "STREAMING: Thinking with Deep Learning: An exposition of deep (representation) learning for social science research",
                             "presenter": "James Evans, Bhargav Srinivasa Desikan",
-                            "presentation_time": "15:00",
+                            "presentation_time": "15:30",
                             "link": "https://github.com/bhargavvader/thinking-deep-learning-tutorial",
                             "authors": "<u></u>",
                             "bio": "",
@@ -496,7 +496,7 @@
                         {
                             "title": "Images as data",
                             "presenter": "August Lohse, Simon P. von der Maase",
-                            "presentation_time": "15:00",
+                            "presentation_time": "15:30",
                             "link": "https://www.augustlohse.com/ic2s2-tutorial-image-as-data/",
                             "authors": "<u></u>",
                             "bio": "",
@@ -511,14 +511,14 @@
                 },
                 {
                     "title": "STREAMING:\n Images as data (PART II)",
-                    "time": "15:30 - 15:00",
+                    "time": "15:30 - 17:00",
                     "start_time": "15:30",
-                    "end_time": "15:00",
+                    "end_time": "17:00",
                     "presentations": [
                         {
                             "title": "STREAMING: Images as data",
                             "presenter": "August Lohse, Simon P. von der Maase",
-                            "presentation_time": "15:00",
+                            "presentation_time": "15:30",
                             "link": "https://www.augustlohse.com/ic2s2-tutorial-image-as-data/",
                             "authors": "<u></u>",
                             "bio": "",
@@ -584,7 +584,7 @@
                         {
                             "title": "Computational Social Science from Space",
                             "presenter": "Sanja \u0160\u0107epanovi\u0107, Ingmar Weber",
-                            "presentation_time": "15:00",
+                            "presentation_time": "15:30",
                             "link": "https://sites.google.com/view/cssfromspace",
                             "authors": "<u></u>",
                             "bio": "",
@@ -628,7 +628,7 @@
                         {
                             "title": "Data access for researchers under the Digital Services Act",
                             "presenter": "Philipp Lorenz-Spreen, Julian Jaursch",
-                            "presentation_time": "15:00",
+                            "presentation_time": "15:30",
                             "link": "https://reclaimingautonomyonline.notion.site/Data-access-under-the-Digital-Services-Act-8f7390f3ae6b4aa7ad53d53158ed257c",
                             "authors": "<u></u>",
                             "bio": "",

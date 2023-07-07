@@ -17,6 +17,7 @@ body {
   width: 2900px;
 }
 
+
 .container {
   height: 100%;
   position: sticky;
@@ -186,8 +187,82 @@ button:hover {
 .table-container {
     margin-top: 50px;
 }
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* Black overlay with 60% opacity */
+  overflow: auto;
+}
 
+.modal-content {
+  display: block;
+  margin: 20px auto;
+  max-width: 70%;
+  max-height: 70%;
+}
 
+#modalImage {
+  max-width: 70%;
+  max-height: 70%;
+  background-color: white;
+}
+
+#modalClose {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 54px; /* Adjust the font size as desired */
+  color: black; /* Change the color to your desired close button color */
+  cursor: pointer;
+}
+
+.additional-info a {
+  color: #007bff; /* Change the color to your desired link color */
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.additional-info a:hover {
+  color: #0056b3; /* Change the color to your desired hover color */
+}
+
+.room {
+  color: #007bff; /* Change the color to your desired link color */
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.room:hover {
+  color: #0056b3; /* Change the color to your desired hover color */
+}
+
+.content-grid {
+    display: grid;
+    grid-template-columns: 3fr 1fr; /* This will give 3/4th width to your schedule and 1/4th to your additional info. */
+    gap: 20px; /* This will provide space between your schedule and additional info */
+}
+
+#schedule-wrapper {
+    /* no width required */
+}
+
+.additional-info {
+   max-width:250%;
+   min-width:500px;
+   max-height:120px;
+   background: #ffeec0;
+   padding:10px;
+   margin:10px;
+   border-radius: 10px;
+   float:  left;
+   clear: left;
+   padding-left: 10px;
+}
 
 @media only screen and (max-width: 600px) {
   .container {

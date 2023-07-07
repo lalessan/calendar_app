@@ -28,6 +28,28 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 
+function openRoomModal(element) {
+  var roomMapUrl = `/images/${element.textContent}.png`.replace(/\s/g,"");
+  var modal = document.getElementById('modal');
+  var modalImage = document.getElementById('modalImage');
+  modal.style.display = 'block';
+  modalImage.src = roomMapUrl;
+}
+
+// Close the modal when the close button is clicked
+var closeButton = document.getElementById('modalClose');
+closeButton.addEventListener('click', function() {
+  var modal = document.getElementById('modal');
+  modal.style.display = 'none';
+});
+
+// Close the modal when clicking outside the image
+var modal = document.getElementById('modal');
+modal.addEventListener('click', function(event) {
+  if (event.target === modal) {
+    modal.style.display = 'none';
+  }
+});
 
 function fetchSessionDetails() {
   // Replace this with your own logic to fetch the session details from agenda2.json
@@ -60,7 +82,7 @@ function displaySessionDetails(session, day) {
   // Set session details
   sessionDetailsElement.innerHTML = `
     <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
-    <div class="session-room"> ${session.room}</div>
+    <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
   `;
 
   // Clear any existing content in the presentation list
