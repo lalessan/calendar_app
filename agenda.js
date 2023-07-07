@@ -113,6 +113,10 @@ fetch('agenda2.json')
 	});
 
 
+window.addEventListener('scroll', function() {
+  var container = document.querySelector('.container');
+  container.style.left = window.scrollX + 'px';
+});
 
 function generateTimeSlots(timeSlotsElement) {
 	const emptyTh = document.createElement('th'); // Create an empty header cell
@@ -138,7 +142,7 @@ function generateRoomsAndSessions(roomsElement, rooms, sessions,day) {
 	});
 
 	const additionalInfoDiv = document.getElementById('additional-info');
-	
+
 	// Update the visibility of the additional info div based on the selected day
 	if (day === "Jul 18" || day === "Jul 19") {
 		additionalInfoDiv.style.display = 'block'; // Show the additional info div
