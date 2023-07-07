@@ -6,6 +6,7 @@ body {
 }
 
 #pageTitle {
+  font-size: 15pt;
     display: block;
     text-align: center;
 }
@@ -22,29 +23,33 @@ body {
   height: 100%;
   position: sticky;
   left: 0;
-  width: 1000px;
+  width: 400px;
   display: flex; 
-  justify-content: center; /* aligns horizontally */
-  align-items: center; /* aligns vertically */
+  justify-content: left; /* aligns horizontally */
+  align-items: left; /* aligns vertically */
   flex-direction: column; /* stacks child elements vertically */
 }
 
-.title_container, .selectors_container {
+.title_container {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
+    margin-left: 20px;
+
 }
 
 .day-selector {
     display: flex;
-    align-items: center;
-    margin-right: 10px;
+    align-items: left;
+    padding-left: 20px;
+    padding-top: 7px;
 }
 
 .search-bar {
     display: flex;
-    align-items: center;
-    margin-left: 10px;
+    align-items: left;
+    padding-left: 20px;
+    padding-top: 10px;
 }
 
 #schedule {
@@ -204,6 +209,7 @@ button:hover {
   margin: 20px auto;
   max-width: 70%;
   max-height: 70%;
+
 }
 
 #modalImage {
@@ -264,4 +270,30 @@ button:hover {
    padding-left: 10px;
 }
 
+@media only screen and (max-width: 600px) {
+
+.modal-content {
+  display: block;
+  margin: 20px auto;
+  width: 90vw; /* 90% of viewport width */
+}
+
+#modalImage {
+  max-width: 100%;
+  max-height: 100%;
+  background-color: white;
+}
+  .day-selector, .search-bar {
+    margin: 10px 0;
+  }
+
+  label {
+    margin-bottom: 5px;
+  }
+
+  select, input[type="text"], button {
+    padding: 8px;
+    font-size: 12px;
+  }
+}
 

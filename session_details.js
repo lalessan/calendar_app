@@ -29,7 +29,8 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 function openRoomModal(element) {
-  var roomMapUrl = ` https://laura.alessandretti.com/public/images/${element.textContent}.png`.replace(" ","");
+  const text = element.textContent.replaceAll(" ","");
+  var roomMapUrl = ` https://laura.alessandretti.com/public/images/${text}.png`;
   var modal = document.getElementById('modal');
   var modalImage = document.getElementById('modalImage');
   modal.style.display = 'block';

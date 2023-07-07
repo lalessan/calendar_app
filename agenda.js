@@ -80,11 +80,10 @@ fetch('agenda2.json')
 		}
 
 		const pageTitle = document.getElementById('pageTitle');
-		pageTitle.textContent = `IC2S2 Conference Agenda - ${selectedDay}`;
+		pageTitle.innerHTML = `IC2S2 Agenda ${selectedDay}`;
 
 		// Generate the rooms and sessions for the selected day
 		generateRoomsAndSessions(roomsElement, rooms[0], sortedSessions[0],selectedDay);
-
 
 
 		// Event listener for day selection change
@@ -95,56 +94,25 @@ fetch('agenda2.json')
 			const selectedDay = data.days[selectedDayIndex].day;
 
 			const pageTitle = document.getElementById('pageTitle');
-			pageTitle.textContent = `IC2S2 Conference Agenda - ${selectedDay}`;
+			pageTitle.innerHTML = `IC2S2 Agenda ${selectedDay}`;
 
 			// Clear the current rooms and sessions
 			clearRoomsAndSessions(roomsElement);
 
 			// Generate the rooms and sessions for the selected day
 			generateRoomsAndSessions(roomsElement, selectedRooms, selectedSessions, selectedDay);
+
+
+
 		});
 
 		daySelect.dispatchEvent(new Event('change'));
 
-			const additionalInfoDiv = document.getElementById('additional-info');
-
-		daySelect.addEventListener('change', function () {
-			const selectedDay = this.value;
-			const additionalInfoDiv = document.getElementById('additional-info');
-	// Update the visibility of the additional info div based on the selected day
-if (selectedDay === "1" || selectedDay === "2") {
-
-			additionalInfoDiv.style.display = 'block'; // Show the additional info div
-			additionalInfoDiv.innerHTML = `
-			    <p><strong>19:30 - 23:30 Social Dinner at Festsalen</strong></p>
-			    <p><strong><a href="https://goo.gl/maps/LU8pHM8uTxdo5nRc6" target="_blank">Copenhagen University, Festsalen. Frue Plads 4, Entrance A</a></strong></p>
-				   <p>Doors open at 19:00</p>
-
-			`;
-
-			} else {
-				additionalInfoDiv.style.display = 'none'; // Hide the additional info div
-			}
-		});
-
-// Set the initial visibility based on the default selected day
-if (selectedDay === "1" || selectedDay === "2") {
-
-			const additionalInfoDiv = document.getElementById('additional-info');
-			additionalInfoDiv.style.display = 'block'; // Show the additional info div
-			additionalInfoDiv.innerHTML = `
-			    <p><strong>19:30 - 23:30 Social Dinner at Festsalen</strong></p>
-			    <p><strong><a href="https://goo.gl/maps/LU8pHM8uTxdo5nRc6" target="_blank">Copenhagen University, Festsalen. Frue Plads 4, Entrance A</a></strong></p>
-				   <p>Doors open at 19:00</p>
-			`;
-
-		} else {
-	additionalInfoDiv.style.display = 'none'; // Hide the additional info div
-}
 
 
+	});
 
-});
+
 
 function generateTimeSlots(timeSlotsElement) {
 	const emptyTh = document.createElement('th'); // Create an empty header cell
@@ -163,43 +131,60 @@ function generateTimeSlots(timeSlotsElement) {
 }
 
 function generateRoomsAndSessions(roomsElement, rooms, sessions,day) {
+
 	rooms.forEach(room => {
 		const roomSessions = sessions.filter(session => session.room === room);
 		generateRoomRow(roomsElement, room, roomSessions,day);
 	});
 
-	document.querySelectorAll('.room').forEach(function(room) {
-		room.addEventListener('click', function() {
-			var roomMapUrl = this.getAttribute('data-room-map');
-			var modal = document.getElementById('modal');
-			var modalImage = document.getElementById('modalImage');
-			modal.style.display = 'block';
-			modalImage.src = roomMapUrl.replace(" ","");
+	const additionalInfoDiv = document.getElementById('additional-info');
+	
+	// Update the visibility of the additional info div based on the selected day
+	if (day === "Jul 18" || day === "Jul 19") {
+		additionalInfoDiv.style.display = 'block'; // Show the additional info div
+		additionalInfoDiv.innerHTML = `
+		<p><strong>19:30 - 23:30 Social Dinner at Festsalen</strong></p>
+		<p><strong><a href="https://goo.gl/maps/LU8pHM8uTxdo5nRc6" target="_blank">Copenhagen University, Festsalen. Frue Plads 4, Entrance A</a></strong></p>
+		<p>Doors open at 19:00</p>
+
+		`;
+
+	} else {
+			additionalInfoDiv.style.display = 'none'; // Hide the additional info div
+		}
+
+		document.querySelectorAll('.room').forEach(function(room) {
+			room.addEventListener('click', function() {
+				var roomMapUrl = this.getAttribute('data-room-map');
+				var modal = document.getElementById('modal');
+				var modalImage = document.getElementById('modalImage');
+				modal.style.display = 'block';
+				modalImage.src = roomMapUrl.replace(" ","");
+			});
 		});
-	});
 
 // Close the modal when the close button is clicked
-	var closeButton = document.getElementById('modalClose');
-	closeButton.addEventListener('click', function() {
-		var modal = document.getElementById('modal');
-		modal.style.display = 'none';
-	});
+		var closeButton = document.getElementById('modalClose');
+		closeButton.addEventListener('click', function() {
+			var modal = document.getElementById('modal');
+			modal.style.display = 'none';
+		});
 
 // Close the modal when clicking outside the image
-	var modal = document.getElementById('modal');
-	modal.addEventListener('click', function(event) {
-		if (event.target === modal) {
-			modal.style.display = 'none';
-		}
-	});
-}
+		var modal = document.getElementById('modal');
+		modal.addEventListener('click', function(event) {
+			if (event.target === modal) {
+				modal.style.display = 'none';
+			}
+		});
+	}
 
-function generateRoomRow(roomsElement, room, roomSessions, day) {
+	function generateRoomRow(roomsElement, room, roomSessions, day) {
 
-	const roomRow = document.createElement('tr');
-	roomRow.id = `room-${room}`;
-	const th = document.createElement('th');
-	th.innerText = room;
+		const roomRow = document.createElement('tr');
+		roomRow.id = `room-${room}`;
+		const th = document.createElement('th');
+		th.innerText = room;
 	th.className = 'room'; // Assign a class name to the room name cell
 	th.dataset.roomMap = ` https://laura.alessandretti.com/public/images/${room}.png`.replace(" ",""); // Assign a data attribute with the image URL
 	roomRow.appendChild(th);
@@ -375,3 +360,5 @@ function showSessionDetails(session, day) {
 	window.location.href = `session_details.html?sessionId=${sessionId}&day=${encodeURIComponent(day)}`;
 }
 }
+
+
