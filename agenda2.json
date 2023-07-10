@@ -3271,6 +3271,16 @@
                             "bio": "",
                             "abstract": "",
                             "poster_board_id": 102.0
+                        },
+                        {
+                            "title": "Social Contagion in Science",
+                            "presenter": "Satyaki Sikdar",
+                            "presentation_time": "",
+                            "link": "https://laura.alessandretti.com/public/pdf_accepted/paper725.pdf",
+                            "authors": "Sara Venturini, <u>Satyaki Sikdar</u>, Francesco Rinaldi, Francesco Tudisco, Santo Fortunato",
+                            "bio": "",
+                            "abstract": "",
+                            "poster_board_id": 103.0
                         }
                     ],
                     "room": "Atrium",
@@ -5012,7 +5022,7 @@
                             "presenter": "Shahan Ali Memon",
                             "presentation_time": "",
                             "link": "https://laura.alessandretti.com/public/pdf_accepted/paper159.pdf",
-                            "authors": "Bedoor AlShebli, <u>Shahan Ali Memon</u>, Dashun Wang, James Evans, Talal Rahwan",
+                            "authors": "Bedoor AlShebli, <u>Shahan Ali Memon</u>, James Evans, Talal Rahwan",
                             "bio": "",
                             "abstract": "",
                             "poster_board_id": 15.0
