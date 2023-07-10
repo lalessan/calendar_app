@@ -61,15 +61,20 @@ h1 {
 }
 
 .session-time {
+  margin-bottom:5px;
   font-weight: bold;
 }
 
 .session-room {
-  margin-bottom: 50px;
+  margin-bottom:5px;
   font-weight: bold;
   color: #007bff; /* Change the color to your desired link color */
   text-decoration: underline;
   cursor: pointer;
+}
+
+.session-chair {
+  margin-bottom: 50px;
 }
 
 

@@ -23,7 +23,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB0"
+                    "sessionId": "CB0",
+                    "session_chair": ""
                 },
                 {
                     "title": "Coffee Break",
@@ -45,7 +46,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB01"
+                    "sessionId": "CB01",
+                    "session_chair": ""
                 },
                 {
                     "title": "Lunch",
@@ -67,7 +69,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "LU0"
+                    "sessionId": "LU0",
+                    "session_chair": ""
                 },
                 {
                     "title": "Reception",
@@ -89,7 +92,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "LU00"
+                    "sessionId": "LU00",
+                    "session_chair": ""
                 },
                 {
                     "title": "Registration",
@@ -111,7 +115,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "RA0"
+                    "sessionId": "RA0",
+                    "session_chair": ""
                 },
                 {
                     "title": "The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART I)",
@@ -133,7 +138,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T1"
+                    "sessionId": "T1",
+                    "session_chair": ""
                 },
                 {
                     "title": "The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART II)",
@@ -155,7 +161,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T1_1"
+                    "sessionId": "T1_1",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART II)",
@@ -177,7 +184,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T1_1S"
+                    "sessionId": "T1_1S",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART I)",
@@ -199,7 +207,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T1_S"
+                    "sessionId": "T1_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Capturing Human Values during Controversies (PART I)",
@@ -221,7 +230,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T2"
+                    "sessionId": "T2",
+                    "session_chair": ""
                 },
                 {
                     "title": "Capturing Human Values during Controversies (PART II)",
@@ -243,7 +253,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T2_1"
+                    "sessionId": "T2_1",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Capturing Human Values during Controversies (PART II)",
@@ -265,7 +276,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T2_1S"
+                    "sessionId": "T2_1S",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Capturing Human Values during Controversies (PART I)",
@@ -287,7 +299,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T2_S"
+                    "sessionId": "T2_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Geospatial Data Science (PART I)",
@@ -309,7 +322,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T3"
+                    "sessionId": "T3",
+                    "session_chair": ""
                 },
                 {
                     "title": "Geospatial Data Science (PART II)",
@@ -331,7 +345,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T3_1"
+                    "sessionId": "T3_1",
+                    "session_chair": ""
                 },
                 {
                     "title": "Creating multiplayer, interactive online experiments with Empirica (PART I)",
@@ -353,7 +368,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T4"
+                    "sessionId": "T4",
+                    "session_chair": ""
                 },
                 {
                     "title": "Creating multiplayer, interactive online experiments with Empirica (PART II)",
@@ -375,7 +391,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T4_1"
+                    "sessionId": "T4_1",
+                    "session_chair": ""
                 },
                 {
                     "title": "Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART I)",
@@ -397,7 +414,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T5"
+                    "sessionId": "T5",
+                    "session_chair": ""
                 },
                 {
                     "title": "Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART II)",
@@ -419,7 +437,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T5_1"
+                    "sessionId": "T5_1",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART II)",
@@ -441,7 +460,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T5_1S"
+                    "sessionId": "T5_1S",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART I)",
@@ -463,7 +483,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T5_S"
+                    "sessionId": "T5_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Images as data (PART I)",
@@ -485,7 +506,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T6"
+                    "sessionId": "T6",
+                    "session_chair": ""
                 },
                 {
                     "title": "Images as data (PART II)",
@@ -507,7 +529,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T6_1"
+                    "sessionId": "T6_1",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Images as data (PART II)",
@@ -529,7 +552,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T6_1S"
+                    "sessionId": "T6_1S",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Images as data (PART I)",
@@ -551,7 +575,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T6_S"
+                    "sessionId": "T6_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Computational Social Science from Space (PART I)",
@@ -573,7 +598,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T7"
+                    "sessionId": "T7",
+                    "session_chair": ""
                 },
                 {
                     "title": "Computational Social Science from Space (PART II)",
@@ -595,7 +621,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T7_1"
+                    "sessionId": "T7_1",
+                    "session_chair": ""
                 },
                 {
                     "title": "Data access for researchers under the Digital Services Act (PART I)",
@@ -617,7 +644,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T8"
+                    "sessionId": "T8",
+                    "session_chair": ""
                 },
                 {
                     "title": "Data access for researchers under the Digital Services Act (PART II)",
@@ -639,7 +667,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "tutorial",
-                    "sessionId": "T8_1"
+                    "sessionId": "T8_1",
+                    "session_chair": ""
                 }
             ]
         },
@@ -716,7 +745,8 @@
                     "room": "Room A",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1A"
+                    "sessionId": "1A",
+                    "session_chair": "David Garcia"
                 },
                 {
                     "title": "Social networks I",
@@ -788,7 +818,8 @@
                     "room": "Room B",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1B"
+                    "sessionId": "1B",
+                    "session_chair": "Milena Tsvetkova"
                 },
                 {
                     "title": "Inequalities and bias",
@@ -860,7 +891,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1C"
+                    "sessionId": "1C",
+                    "session_chair": "Elisa Omodei"
                 },
                 {
                     "title": "Online discourse I",
@@ -932,7 +964,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1D"
+                    "sessionId": "1D",
+                    "session_chair": "Sandra Gonzalez-Bailon"
                 },
                 {
                     "title": "Mobility and Urban Data Science I",
@@ -1004,7 +1037,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1E"
+                    "sessionId": "1E",
+                    "session_chair": "Leo Ferres"
                 },
                 {
                     "title": "Nature and Climate",
@@ -1076,7 +1110,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1F"
+                    "sessionId": "1F",
+                    "session_chair": "Clara Vandeweerdt"
                 },
                 {
                     "title": "Epidemics",
@@ -1148,7 +1183,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1G"
+                    "sessionId": "1G",
+                    "session_chair": "Andreia Sofia Teixeira"
                 },
                 {
                     "title": "Education",
@@ -1220,7 +1256,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "1H"
+                    "sessionId": "1H",
+                    "session_chair": "Edward Lee"
                 },
                 {
                     "title": "Misinformation",
@@ -1292,7 +1329,8 @@
                     "room": "Room A",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2A"
+                    "sessionId": "2A",
+                    "session_chair": "Luca Rossi"
                 },
                 {
                     "title": "Social Networks II",
@@ -1364,7 +1402,8 @@
                     "room": "Room B",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2B"
+                    "sessionId": "2B",
+                    "session_chair": "Jonas Juul"
                 },
                 {
                     "title": "Polarization II",
@@ -1436,7 +1475,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2C"
+                    "sessionId": "2C",
+                    "session_chair": "Michele Coscia"
                 },
                 {
                     "title": "Social Media I",
@@ -1508,7 +1548,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2D"
+                    "sessionId": "2D",
+                    "session_chair": "Yelena Meyova"
                 },
                 {
                     "title": "Mobility and Urban Data Science II",
@@ -1580,7 +1621,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2E"
+                    "sessionId": "2E",
+                    "session_chair": "Michael Szell"
                 },
                 {
                     "title": "Digital behavior",
@@ -1652,7 +1694,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2F"
+                    "sessionId": "2F",
+                    "session_chair": "Lisette Espin Noboa"
                 },
                 {
                     "title": "Online discourse II",
@@ -1724,7 +1767,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2G"
+                    "sessionId": "2G",
+                    "session_chair": "Matteo Magnani"
                 },
                 {
                     "title": "Studies on Wikipedia",
@@ -1796,7 +1840,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "2H"
+                    "sessionId": "2H",
+                    "session_chair": "Onur Varol"
                 },
                 {
                     "title": "Coffee Break",
@@ -1818,7 +1863,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB1"
+                    "sessionId": "CB1",
+                    "session_chair": ""
                 },
                 {
                     "title": "Coffee Break",
@@ -1840,7 +1886,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB2"
+                    "sessionId": "CB2",
+                    "session_chair": ""
                 },
                 {
                     "title": "Keynote: Jevin West",
@@ -1862,7 +1909,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K1"
+                    "sessionId": "K1",
+                    "session_chair": "Claudia Wagner"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Jevin West",
@@ -1884,7 +1932,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K1_S"
+                    "sessionId": "K1_S",
+                    "session_chair": "Claudia Wagner"
                 },
                 {
                     "title": "Keynote: Linda Steg",
@@ -1906,7 +1955,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K2"
+                    "sessionId": "K2",
+                    "session_chair": "Duncan Watts"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Linda Steg",
@@ -1928,7 +1978,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K2_S"
+                    "sessionId": "K2_S",
+                    "session_chair": "Duncan Watts"
                 },
                 {
                     "title": "Keynote: Sharad Goel",
@@ -1950,7 +2001,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K3"
+                    "sessionId": "K3",
+                    "session_chair": "Duncan Watts"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Sharad Goel",
@@ -1972,7 +2024,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K3_S"
+                    "sessionId": "K3_S",
+                    "session_chair": "Duncan Watts"
                 },
                 {
                     "title": "Panel Debate - Using Computational Social Science for the Sustainable Development Goals",
@@ -1994,7 +2047,8 @@
                     "room": "Room C",
                     "color": "#7084AB",
                     "type": "other",
-                    "sessionId": "LL2"
+                    "sessionId": "LL2",
+                    "session_chair": ""
                 },
                 {
                     "title": "Lunch",
@@ -2016,7 +2070,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "LU1"
+                    "sessionId": "LU1",
+                    "session_chair": ""
                 },
                 {
                     "title": "Opening",
@@ -2038,7 +2093,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "",
-                    "sessionId": "OP"
+                    "sessionId": "OP",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Opening",
@@ -2060,7 +2116,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "",
-                    "sessionId": "OP_S"
+                    "sessionId": "OP_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Lightning talks I",
@@ -2152,7 +2209,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "plenary",
-                    "sessionId": "P1"
+                    "sessionId": "P1",
+                    "session_chair": "Claudia Wagner"
                 },
                 {
                     "title": "STREAMING:\n Lightning talks I",
@@ -2244,7 +2302,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "plenary",
-                    "sessionId": "P1_S"
+                    "sessionId": "P1_S",
+                    "session_chair": "Claudia Wagner"
                 },
                 {
                     "title": "Poster Session I",
@@ -3286,7 +3345,8 @@
                     "room": "Atrium",
                     "color": "#CB746D",
                     "type": "poster",
-                    "sessionId": "PT1"
+                    "sessionId": "PT1",
+                    "session_chair": ""
                 },
                 {
                     "title": "Registration",
@@ -3308,7 +3368,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "RA1"
+                    "sessionId": "RA1",
+                    "session_chair": ""
                 }
             ]
         },
@@ -3385,7 +3446,8 @@
                     "room": "Room A",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3A"
+                    "sessionId": "3A",
+                    "session_chair": "Roberta Rocca"
                 },
                 {
                     "title": "Science of Science I",
@@ -3457,7 +3519,8 @@
                     "room": "Room B",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3B"
+                    "sessionId": "3B",
+                    "session_chair": "Talal Rahwan"
                 },
                 {
                     "title": "Social media II",
@@ -3529,7 +3592,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3C"
+                    "sessionId": "3C",
+                    "session_chair": "Frauke Kreuter"
                 },
                 {
                     "title": "Economic complexity I",
@@ -3601,7 +3665,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3D"
+                    "sessionId": "3D",
+                    "session_chair": "Riccardo Di Clemente"
                 },
                 {
                     "title": "Mobility and Urban Data Science III",
@@ -3673,7 +3738,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3E"
+                    "sessionId": "3E",
+                    "session_chair": "Martin Arvidsson"
                 },
                 {
                     "title": "Teams and knowledge",
@@ -3745,7 +3811,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3F"
+                    "sessionId": "3F",
+                    "session_chair": "Taha Yasseri"
                 },
                 {
                     "title": "Health",
@@ -3817,7 +3884,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3G"
+                    "sessionId": "3G",
+                    "session_chair": "Michele Tizzoni"
                 },
                 {
                     "title": "Methods and theory",
@@ -3889,7 +3957,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "3H"
+                    "sessionId": "3H",
+                    "session_chair": "Daniele Quercia"
                 },
                 {
                     "title": "NLP and society II",
@@ -3961,7 +4030,8 @@
                     "room": "Room A",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4A"
+                    "sessionId": "4A",
+                    "session_chair": "Kokil Jaidka"
                 },
                 {
                     "title": "Social Media III",
@@ -4033,7 +4103,8 @@
                     "room": "Room B",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4B"
+                    "sessionId": "4B",
+                    "session_chair": "Ingmar Weber"
                 },
                 {
                     "title": "Science of Science II",
@@ -4105,7 +4176,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4C"
+                    "sessionId": "4C",
+                    "session_chair": "Claudia Acciai"
                 },
                 {
                     "title": "Economic complexity I",
@@ -4177,7 +4249,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4D"
+                    "sessionId": "4D",
+                    "session_chair": "Sandor Juhasz"
                 },
                 {
                     "title": "Mobility and Urban Data Science IV",
@@ -4249,7 +4322,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4E"
+                    "sessionId": "4E",
+                    "session_chair": "Anna Sapienza"
                 },
                 {
                     "title": "Politics",
@@ -4321,7 +4395,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4F"
+                    "sessionId": "4F",
+                    "session_chair": "Yunkyu Sohn"
                 },
                 {
                     "title": "Experiments",
@@ -4393,7 +4468,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4G"
+                    "sessionId": "4G",
+                    "session_chair": "Mathieu G\u00e9nois"
                 },
                 {
                     "title": "Social Media and Networks I",
@@ -4465,7 +4541,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "4H"
+                    "sessionId": "4H",
+                    "session_chair": "Alexander Gates"
                 },
                 {
                     "title": "Coffee Break",
@@ -4487,7 +4564,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB3"
+                    "sessionId": "CB3",
+                    "session_chair": ""
                 },
                 {
                     "title": "Coffee Break",
@@ -4509,7 +4587,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB4"
+                    "sessionId": "CB4",
+                    "session_chair": ""
                 },
                 {
                     "title": "Keynote: Molly Crockett",
@@ -4531,7 +4610,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K4"
+                    "sessionId": "K4",
+                    "session_chair": "Taha Yasseri"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Molly Crockett",
@@ -4553,7 +4633,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K4_S"
+                    "sessionId": "K4_S",
+                    "session_chair": "Taha Yasseri"
                 },
                 {
                     "title": "Keynote:  Lisa Anne Hendriks",
@@ -4575,7 +4656,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K5"
+                    "sessionId": "K5",
+                    "session_chair": "Roberta Sinatra"
                 },
                 {
                     "title": "STREAMING:\n Keynote:  Lisa Anne Hendriks",
@@ -4597,7 +4679,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K5_S"
+                    "sessionId": "K5_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Keynote: Stefan G\u00f6ssling",
@@ -4619,7 +4702,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K6"
+                    "sessionId": "K6",
+                    "session_chair": "Roberta Sinatra"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Stefan G\u00f6ssling",
@@ -4641,7 +4725,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K6_S"
+                    "sessionId": "K6_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Too Lazy to Read the Paper LIVESHOW EXTRAVAGANZA edition, with Sune Lehmann\n",
@@ -4663,7 +4748,8 @@
                     "room": "Room C",
                     "color": "#7084AB",
                     "type": "other",
-                    "sessionId": "LL1"
+                    "sessionId": "LL1",
+                    "session_chair": ""
                 },
                 {
                     "title": "Lunch",
@@ -4685,7 +4771,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "LU2"
+                    "sessionId": "LU2",
+                    "session_chair": ""
                 },
                 {
                     "title": "Lightning talks II",
@@ -4777,7 +4864,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "plenary",
-                    "sessionId": "P2"
+                    "sessionId": "P2",
+                    "session_chair": "Taha Yasseri"
                 },
                 {
                     "title": "STREAMING:\n  Lightning talks II",
@@ -4869,7 +4957,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "plenary",
-                    "sessionId": "P2_S"
+                    "sessionId": "P2_S",
+                    "session_chair": "Taha Yasseri"
                 },
                 {
                     "title": "Poster Session II",
@@ -5881,7 +5970,8 @@
                     "room": "Atrium",
                     "color": "#CB746D",
                     "type": "poster",
-                    "sessionId": "PT2"
+                    "sessionId": "PT2",
+                    "session_chair": ""
                 },
                 {
                     "title": "Registration",
@@ -5903,7 +5993,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "RA2"
+                    "sessionId": "RA2",
+                    "session_chair": ""
                 }
             ]
         },
@@ -5980,7 +6071,8 @@
                     "room": "Room A",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5A"
+                    "sessionId": "5A",
+                    "session_chair": "Vedran Sekara"
                 },
                 {
                     "title": "Machine learning and AI",
@@ -6052,7 +6144,8 @@
                     "room": "Room B",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5B"
+                    "sessionId": "5B",
+                    "session_chair": "Piotr Sapiezynski"
                 },
                 {
                     "title": "Social media and networks II",
@@ -6124,7 +6217,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5C"
+                    "sessionId": "5C",
+                    "session_chair": "Gourab Ghoshal"
                 },
                 {
                     "title": "Science of science III",
@@ -6196,7 +6290,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5D"
+                    "sessionId": "5D",
+                    "session_chair": "Pantelis Pipergias Analytis"
                 },
                 {
                     "title": "Network science I",
@@ -6268,7 +6363,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5E"
+                    "sessionId": "5E",
+                    "session_chair": "Michele Starnini"
                 },
                 {
                     "title": "NLP and society III",
@@ -6340,7 +6436,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5F"
+                    "sessionId": "5F",
+                    "session_chair": "Kristina Gligoric"
                 },
                 {
                     "title": "Natural experiments and exogenous events I",
@@ -6412,7 +6509,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5G"
+                    "sessionId": "5G",
+                    "session_chair": "Kelton Minor"
                 },
                 {
                     "title": "ABMs",
@@ -6484,7 +6582,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "5H"
+                    "sessionId": "5H",
+                    "session_chair": "Petter Holme"
                 },
                 {
                     "title": "Gender inequality",
@@ -6556,7 +6655,8 @@
                     "room": "Room A",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6A"
+                    "sessionId": "6A",
+                    "session_chair": "Kyriaki Kalimeri"
                 },
                 {
                     "title": "Mobility and Urban Data Science V",
@@ -6628,7 +6728,8 @@
                     "room": "Room B",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6B"
+                    "sessionId": "6B",
+                    "session_chair": "Bruno Lepri"
                 },
                 {
                     "title": "Hate speech and toxicity",
@@ -6700,7 +6801,8 @@
                     "room": "Room C",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6C"
+                    "sessionId": "6C",
+                    "session_chair": "Ivan Smirnov"
                 },
                 {
                     "title": "Politics II",
@@ -6772,7 +6874,8 @@
                     "room": "Room D",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6D"
+                    "sessionId": "6D",
+                    "session_chair": "Yevgeniy Golovchenko"
                 },
                 {
                     "title": "Network science II",
@@ -6844,7 +6947,8 @@
                     "room": "Room E",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6E"
+                    "sessionId": "6E",
+                    "session_chair": "Mikko Kivel\u00e4"
                 },
                 {
                     "title": "NLP and society IV",
@@ -6916,7 +7020,8 @@
                     "room": "Room F",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6F"
+                    "sessionId": "6F",
+                    "session_chair": "Clemens Stachl"
                 },
                 {
                     "title": "Sociology of culture and culture dynamics",
@@ -6988,7 +7093,8 @@
                     "room": "Room G",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6G"
+                    "sessionId": "6G",
+                    "session_chair": "Maximilian Schich"
                 },
                 {
                     "title": "Natural experiments and exogenous events II",
@@ -7060,7 +7166,8 @@
                     "room": "Room H",
                     "color": "#ECF8F9",
                     "type": "parallel",
-                    "sessionId": "6H"
+                    "sessionId": "6H",
+                    "session_chair": "Rossano Schifanella"
                 },
                 {
                     "title": "Coffee Break",
@@ -7082,7 +7189,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB5"
+                    "sessionId": "CB5",
+                    "session_chair": ""
                 },
                 {
                     "title": "Coffee Break",
@@ -7104,7 +7212,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CB6"
+                    "sessionId": "CB6",
+                    "session_chair": ""
                 },
                 {
                     "title": "Closing",
@@ -7126,7 +7235,8 @@
                     "room": "Room A",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CL"
+                    "sessionId": "CL",
+                    "session_chair": ""
                 },
                 {
                     "title": "STREAMING:\n Closing",
@@ -7148,7 +7258,8 @@
                     "room": "Room B",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "CL_S"
+                    "sessionId": "CL_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Keynote: Esteban Moro",
@@ -7170,7 +7281,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K10"
+                    "sessionId": "K10",
+                    "session_chair": "Sune Lehmann"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Esteban Moro",
@@ -7192,7 +7304,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K10_S"
+                    "sessionId": "K10_S",
+                    "session_chair": "Sune Lehmann"
                 },
                 {
                     "title": "Keynote: Joanna Bryson",
@@ -7214,7 +7327,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K7"
+                    "sessionId": "K7",
+                    "session_chair": "Piotr Sapie\u017cy\u0144ski"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Joanna Bryson",
@@ -7236,7 +7350,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K7_S"
+                    "sessionId": "K7_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Keynote: Tim Althoff",
@@ -7258,7 +7373,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K8"
+                    "sessionId": "K8",
+                    "session_chair": "Piotr Sapie\u017cy\u0144ski"
                 },
                 {
                     "title": "STREAMING:\n Keynote: Tim Althoff",
@@ -7280,7 +7396,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K8_S"
+                    "sessionId": "K8_S",
+                    "session_chair": ""
                 },
                 {
                     "title": "Keynote: Lauren Brent",
@@ -7302,7 +7419,8 @@
                     "room": "Room A",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K9"
+                    "sessionId": "K9",
+                    "session_chair": "Sune Lehmann"
                 },
                 {
                     "title": "STREAMING:\n  Keynote: Lauren Brent",
@@ -7324,7 +7442,8 @@
                     "room": "Room B",
                     "color": "#CB746D",
                     "type": "keynote",
-                    "sessionId": "K9_S"
+                    "sessionId": "K9_S",
+                    "session_chair": "Sune Lehmann"
                 },
                 {
                     "title": "IC2S2 Conference Townhall",
@@ -7346,7 +7465,8 @@
                     "room": "Room C",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "LL3"
+                    "sessionId": "LL3",
+                    "session_chair": ""
                 },
                 {
                     "title": "Lunch",
@@ -7368,7 +7488,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "LU3"
+                    "sessionId": "LU3",
+                    "session_chair": ""
                 },
                 {
                     "title": "Poster Session III",
@@ -8370,7 +8491,8 @@
                     "room": "Atrium",
                     "color": "#CB746D",
                     "type": "poster",
-                    "sessionId": "PT3"
+                    "sessionId": "PT3",
+                    "session_chair": ""
                 },
                 {
                     "title": "Registration",
@@ -8392,7 +8514,8 @@
                     "room": "Atrium",
                     "color": "#7084AB",
                     "type": "",
-                    "sessionId": "RA3"
+                    "sessionId": "RA3",
+                    "session_chair": ""
                 }
             ]
         }

@@ -85,6 +85,13 @@ function displaySessionDetails(session, day) {
     <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
     <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
   `;
+  console.log(session)
+  if (session.type === 'parallel' || session.type === 'keynote' ||  session.type === 'plenary') {
+  sessionDetailsElement.innerHTML = `
+    <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
+    <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
+    <div class="session-chair"> <strong> Session chair: </strong> ${session.session_chair} </div> `;
+  }
 
   // Clear any existing content in the presentation list
   presentationListElement.innerHTML = '';
