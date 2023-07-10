@@ -1975,26 +1975,26 @@
                     "sessionId": "K3_S"
                 },
                 {
-                    "title": "Too Lazy to Read the Paper LIVESHOW EXTRAVAGANZA edition, with Sune Lehmann\n",
+                    "title": "Panel Debate - Using Computational Social Science for the Sustainable Development Goals",
                     "time": "13:00 - 14:00",
                     "start_time": "13:00",
                     "end_time": "14:00",
                     "presentations": [
                         {
-                            "title": "Too Lazy to Read the Paper LIVESHOW EXTRAVAGANZA edition, with Sune Lehmann",
-                            "presenter": "Sune Lehmann",
+                            "title": "Panel Debate - Using Computational Social Science for the Sustainable Development Goals",
+                            "presenter": "Host: Vedran Sekara",
                             "presentation_time": "13:00",
                             "link": "",
                             "authors": "<u></u>",
-                            "bio": "",
-                            "abstract": "The five star rated (by Sune\u2019s mom) science podcast comes to you LIVE from IC2C2. In this star-studded episode we will - as always - be probing the the minds of scientists. We will squeeze 3 superstar mystery guests into a jam-packed 1 hour session, and ask each one about things like: their favorite paper, their favorite paper by another scientist, and their worst experience in science.",
+                            "bio": "Paddy Brock is a Senior Data Scientist at the World Bank UNHCR Joint Data Center on Forced Displacement (https://www.jointdatacenter.org/), where he works with UNHCR and World Bank HQ, Regional and Country teams to generate and improve socioeconomic data on forced displacement to better inform operations, policy and research. The JDC acts as a catalytic bridge between its parent organizations, filling data gaps and deepening analysis. Paddy works on data curation and dissemination, the use of alternative data sources and advanced analytics, and data responsibility. Previously, Paddy lead a cross-divisional team of analysts at the UK Foreign Commonwealth and Development Office, supporting multiple policy areas, including the Sustainable Development Goals. He worked as the Statistics and Evaluation Lead for the UK Department of International Development (DFID) office in the Democratic Republic of Congo, and as a Data Scientist he helped build DFID\u2019s data handling and analytical capability. Paddy\u2019s background is in research, where he carried out quantitative analysis for drug discovery, epidemiology, and disease ecology.  \n\nKyriaki Kalimeri's research focuses on machine learning for human behavior understanding with applications in the humanitarian sector. She collaborates with NGOs worldwide, leveraging insights from digital data to inform policy makers on fundamental drivers of people's decision-making processes towards controversial social phenomena. She began her academic journey at the Technical University of Crete, where she received her Diploma in Electrical and Computer Engineering, specializing in Telecommunication Systems. Pursuing higher education, Kalimeri earned her Ph.D. from the University of Trento under the supervision of Dr. Fabio Pianesi on Cognitive and Brain Sciences, focusing on the automatic prediction of personality from multimodal data, while she was a visiting scholar at the Human Dynamics Group at the MIT Media Lab, under the supervision of Prof. Alex 'Sandy' Pentland. She is an active participant in the academic community, with a special focus on the empowerment of young researchers in the humanitarian AI field. Since 2018 she is a mentor of the Lagrange Scholarship program while organizing several workshops, conferences, and tutorials including the Data for the Wellbeing of the Most Vulnerable workshop at the International Conference on Web and Social Media.",
+                            "abstract": "The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, constitutes a blueprint of the numerous challenges that society is facing. From ending poverty, hunger, and gender inequality, to combating climate change and building sustainable cities. To reach the 17 Sustainable Development Goals (SDGs) by 2030, governments and international organizations need to be able to monitor progress, estimate the impact of potential interventions, and make forecasts on how the situation is likely to evolve. To lift this burden, scientific communities, NGOs and international development agencies are extensively exploring how computational techniques from Big Data, Machine Learning (ML), and Artificial Intelligence (AI) can be used to address these challenges. However, several challenges and limitations have been encountered, from data representativeness and bias, to models not being robust, explainable, or transparent. Further, the gap between the academic world and the organizations that could use the proposed methods and insights for their programmatic purposes is still wide. The aim of this panel debate is to bring together experts from various fields to discuss the potential of CSS for addressing the societal challenges framed by the SDGs. We will convene experts from both academia and the developmental sector to discuss where and how computational techniques can be applied to address these societal problems, and when computational methods fall short for evidence-based policy-making.",
                             "poster_board_id": ""
                         }
                     ],
                     "room": "Room C",
                     "color": "#7084AB",
                     "type": "other",
-                    "sessionId": "LL1"
+                    "sessionId": "LL2"
                 },
                 {
                     "title": "Lunch",
@@ -4634,26 +4634,26 @@
                     "sessionId": "K6_S"
                 },
                 {
-                    "title": "Panel Debate - Using Computational Social Science for the Sustainable Development Goals",
+                    "title": "Too Lazy to Read the Paper LIVESHOW EXTRAVAGANZA edition, with Sune Lehmann\n",
                     "time": "13:00 - 14:00",
                     "start_time": "13:00",
                     "end_time": "14:00",
                     "presentations": [
                         {
-                            "title": "Panel Debate - Using Computational Social Science for the Sustainable Development Goals",
-                            "presenter": "Host: Vedran Sekara",
+                            "title": "Too Lazy to Read the Paper LIVESHOW EXTRAVAGANZA edition, with Sune Lehmann",
+                            "presenter": "Sune Lehmann",
                             "presentation_time": "13:00",
                             "link": "",
                             "authors": "<u></u>",
-                            "bio": "Paddy Brock is a Senior Data Scientist at the World Bank UNHCR Joint Data Center on Forced Displacement (https://www.jointdatacenter.org/), where he works with UNHCR and World Bank HQ, Regional and Country teams to generate and improve socioeconomic data on forced displacement to better inform operations, policy and research. The JDC acts as a catalytic bridge between its parent organizations, filling data gaps and deepening analysis. Paddy works on data curation and dissemination, the use of alternative data sources and advanced analytics, and data responsibility. Previously, Paddy lead a cross-divisional team of analysts at the UK Foreign Commonwealth and Development Office, supporting multiple policy areas, including the Sustainable Development Goals. He worked as the Statistics and Evaluation Lead for the UK Department of International Development (DFID) office in the Democratic Republic of Congo, and as a Data Scientist he helped build DFID\u2019s data handling and analytical capability. Paddy\u2019s background is in research, where he carried out quantitative analysis for drug discovery, epidemiology, and disease ecology.  \n\nKyriaki Kalimeri's research focuses on machine learning for human behavior understanding with applications in the humanitarian sector. She collaborates with NGOs worldwide, leveraging insights from digital data to inform policy makers on fundamental drivers of people's decision-making processes towards controversial social phenomena. She began her academic journey at the Technical University of Crete, where she received her Diploma in Electrical and Computer Engineering, specializing in Telecommunication Systems. Pursuing higher education, Kalimeri earned her Ph.D. from the University of Trento under the supervision of Dr. Fabio Pianesi on Cognitive and Brain Sciences, focusing on the automatic prediction of personality from multimodal data, while she was a visiting scholar at the Human Dynamics Group at the MIT Media Lab, under the supervision of Prof. Alex 'Sandy' Pentland. She is an active participant in the academic community, with a special focus on the empowerment of young researchers in the humanitarian AI field. Since 2018 she is a mentor of the Lagrange Scholarship program while organizing several workshops, conferences, and tutorials including the Data for the Wellbeing of the Most Vulnerable workshop at the International Conference on Web and Social Media.",
-                            "abstract": "The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, constitutes a blueprint of the numerous challenges that society is facing. From ending poverty, hunger, and gender inequality, to combating climate change and building sustainable cities. To reach the 17 Sustainable Development Goals (SDGs) by 2030, governments and international organizations need to be able to monitor progress, estimate the impact of potential interventions, and make forecasts on how the situation is likely to evolve. To lift this burden, scientific communities, NGOs and international development agencies are extensively exploring how computational techniques from Big Data, Machine Learning (ML), and Artificial Intelligence (AI) can be used to address these challenges. However, several challenges and limitations have been encountered, from data representativeness and bias, to models not being robust, explainable, or transparent. Further, the gap between the academic world and the organizations that could use the proposed methods and insights for their programmatic purposes is still wide. The aim of this panel debate is to bring together experts from various fields to discuss the potential of CSS for addressing the societal challenges framed by the SDGs. We will convene experts from both academia and the developmental sector to discuss where and how computational techniques can be applied to address these societal problems, and when computational methods fall short for evidence-based policy-making.",
+                            "bio": "",
+                            "abstract": "The five star rated (by Sune\u2019s mom) science podcast comes to you LIVE from IC2C2. In this star-studded episode we will - as always - be probing the the minds of scientists. We will squeeze 3 superstar mystery guests into a jam-packed 1 hour session, and ask each one about things like: their favorite paper, their favorite paper by another scientist, and their worst experience in science.",
                             "poster_board_id": ""
                         }
                     ],
                     "room": "Room C",
                     "color": "#7084AB",
                     "type": "other",
-                    "sessionId": "LL2"
+                    "sessionId": "LL1"
                 },
                 {
                     "title": "Lunch",
