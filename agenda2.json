@@ -2051,7 +2051,7 @@
                     "session_chair": ""
                 },
                 {
-                    "title": "Lunch",
+                    "title": "Lunch & Poster Session I",
                     "time": "12:30 - 13:30",
                     "start_time": "12:30",
                     "end_time": "13:30",
@@ -4752,7 +4752,7 @@
                     "session_chair": ""
                 },
                 {
-                    "title": "Lunch",
+                    "title": "Lunch & Poster Session II",
                     "time": "12:30 - 13:30",
                     "start_time": "12:30",
                     "end_time": "13:30",
@@ -7216,10 +7216,10 @@
                     "session_chair": ""
                 },
                 {
-                    "title": "Closing",
-                    "time": "16:30 - 16:45",
-                    "start_time": "16:30",
-                    "end_time": "16:45",
+                    "title": "Awards and closing",
+                    "time": "18:00 - 18:15",
+                    "start_time": "18:00",
+                    "end_time": "18:15",
                     "presentations": [
                         {
                             "title": "",
@@ -7233,16 +7233,16 @@
                         }
                     ],
                     "room": "Room A",
-                    "color": "#7084AB",
+                    "color": "#CB746D",
                     "type": "",
                     "sessionId": "CL",
                     "session_chair": ""
                 },
                 {
-                    "title": "STREAMING:\n Closing",
-                    "time": "16:30 - 16:45",
-                    "start_time": "16:30",
-                    "end_time": "16:45",
+                    "title": "STREAMING: Awards and closing",
+                    "time": "18:00 - 18:15",
+                    "start_time": "18:00",
+                    "end_time": "18:15",
                     "presentations": [
                         {
                             "title": "",
@@ -7256,16 +7256,16 @@
                         }
                     ],
                     "room": "Room B",
-                    "color": "#7084AB",
+                    "color": "#CB746D",
                     "type": "",
                     "sessionId": "CL_S",
                     "session_chair": ""
                 },
                 {
                     "title": "Keynote: Esteban Moro",
-                    "time": "17:30 - 18:15",
-                    "start_time": "17:30",
-                    "end_time": "18:15",
+                    "time": "17:15 - 18:00",
+                    "start_time": "17:15",
+                    "end_time": "18:00",
                     "presentations": [
                         {
                             "title": "Understanding urban social resilience through behavioral mobility data",
@@ -7286,9 +7286,9 @@
                 },
                 {
                     "title": "STREAMING:\n Keynote: Esteban Moro",
-                    "time": "17:30 - 18:15",
-                    "start_time": "17:30",
-                    "end_time": "18:15",
+                    "time": "17:15 - 18:00",
+                    "start_time": "17:15",
+                    "end_time": "18:00",
                     "presentations": [
                         {
                             "title": "Understanding urban social resilience through behavioral mobility data",
@@ -7401,9 +7401,9 @@
                 },
                 {
                     "title": "Keynote: Lauren Brent",
-                    "time": "16:45 - 17:30",
-                    "start_time": "16:45",
-                    "end_time": "17:30",
+                    "time": "16:30 - 17:15",
+                    "start_time": "16:30",
+                    "end_time": "17:15",
                     "presentations": [
                         {
                             "title": "Friendship in animals: Adventures in network science and how an evolutionary perspective helps us better understand human health and behaviour.",
@@ -7424,9 +7424,9 @@
                 },
                 {
                     "title": "STREAMING:\n  Keynote: Lauren Brent",
-                    "time": "16:45 - 17:30",
-                    "start_time": "16:45",
-                    "end_time": "17:30",
+                    "time": "16:30 - 17:15",
+                    "start_time": "16:30",
+                    "end_time": "17:15",
                     "presentations": [
                         {
                             "title": "Friendship in animals: Adventures in network science and how an evolutionary perspective helps us better understand human health and behaviour.",
@@ -7462,14 +7462,14 @@
                             "poster_board_id": ""
                         }
                     ],
-                    "room": "Room C",
+                    "room": "Room A",
                     "color": "#7084AB",
                     "type": "",
                     "sessionId": "LL3",
                     "session_chair": ""
                 },
                 {
-                    "title": "Lunch",
+                    "title": "Lunch & Poster Session III",
                     "time": "12:30 - 13:30",
                     "start_time": "12:30",
                     "end_time": "13:30",

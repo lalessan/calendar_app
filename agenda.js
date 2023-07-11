@@ -119,7 +119,7 @@ function generateTimeSlots(timeSlotsElement) {
 	const emptyTh = document.createElement('th'); // Create an empty header cell
 	timeSlotsElement.appendChild(emptyTh);
 
-	for (let hour = 8; hour <= 17; hour++) {
+	for (let hour = 8; hour <= 18; hour++) {
 		for (let min = 0; min <= 45; min += 15) {
 			const time = `${hour.toString().padStart(2, '0')}:${min.toString().padStart(2, '0')}`;
 			const th = document.createElement('th');
@@ -191,7 +191,7 @@ function generateRoomsAndSessions(roomsElement, rooms, sessions,day) {
 	roomRow.appendChild(th);
 
 // Fill the row with empty cells
-	for (let i = 0; i < 4 * (17 - 8) + 4; i++) {
+	for (let i = 0; i < 4 * (18 - 8) + 4; i++) {
 		const emptyCell = document.createElement('td');
 		roomRow.appendChild(emptyCell);
 	emptyCell.className = 'session-empty'; // Add the session-empty class
