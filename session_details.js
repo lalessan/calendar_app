@@ -85,12 +85,27 @@ function displaySessionDetails(session, day) {
     <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
     <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
   `;
-  console.log(session)
   if (session.type === 'parallel' || session.type === 'keynote' ||  session.type === 'plenary') {
   sessionDetailsElement.innerHTML = `
     <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
     <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
     <div class="session-chair"> <strong> Session chair: </strong> ${session.session_chair} </div> `;
+  }
+  console.log(session.room)
+  if (session.room=='Room H'){
+    sessionDetailsElement.innerHTML = `
+    <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
+    <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
+    <div class="sessionroom"> <strong> To reach Room H: </strong> </div>
+    <div class="sessionroom-details"> <ul>
+    <li>Take the elevators to floor 15</li>
+    <li>Exit the elevators and go to the right</li>
+    <li>At the door, enter code <strong>4221#</strong></li>
+    <li>Continue until the end of the corridor</li>
+    </ul> </div>  
+    <div class="session-chair"> <strong> Session chair: </strong> ${session.session_chair} </div>
+
+    `;
   }
 
   // Clear any existing content in the presentation list

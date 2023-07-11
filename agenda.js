@@ -218,7 +218,11 @@ roomSessions.forEach(session => {
 
 			const sessionRoom = document.createElement('div');
 			sessionRoom.className = 'session-room';
-			sessionRoom.innerText = session.room;
+			if (session.room == "Room H"){
+				sessionRoom.innerText = `${session.room} (code: 4221#)`; 
+			} else {
+				sessionRoom.innerText = session.room;
+			}
 			sessionContent.appendChild(sessionRoom);         
 
 			const sessionTitle = document.createElement('div');
