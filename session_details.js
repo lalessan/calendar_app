@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Modify the back link to include the day parameter
   const backLink = document.querySelector('.back-link a');
-  backLink.href += `?day=${day}`;
+  backLink.href = `program_interactive.html?day=${day}`;
 
   if (sessionId && day) {
     // Fetch the session details based on the ID and day
@@ -86,10 +86,18 @@ function displaySessionDetails(session, day) {
     <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
   `;
   if (session.type === 'parallel' || session.type === 'keynote' ||  session.type === 'plenary') {
+    if(session.sponsor!=""){
   sessionDetailsElement.innerHTML = `
     <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
     <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
+    <div class="session-chair"> <strong>Talk sponsored by: ${session.sponsor} </strong> </div>
     <div class="session-chair"> <strong> Session chair: </strong> ${session.session_chair} </div> `;
+  } else {
+      sessionDetailsElement.innerHTML = `
+    <div class="session-time"> ${day}, ${session.start_time} - ${session.end_time}</div>
+    <div class="session-room" data-room-map="YourMapUrlHere" onClick="openRoomModal(this)"> ${session.room}</div>
+    <div class="session-chair"> <strong> Session chair: </strong> ${session.session_chair} </div> `;
+  }
   }
   console.log(session.room)
   if (session.room=='Room H'){

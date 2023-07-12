@@ -13,9 +13,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Back button click event
   const backButton = document.querySelector('.back-link a');
-  backButton.addEventListener('click', function() {
-    window.location.href = 'index.html';
-  });
+  backButton.href = `program_interactive.html?day=${day}`;
+
 
 
   // Add click event listener to each search result
@@ -89,7 +88,7 @@ function displaySearchResults(presentations, day, keyword) {
 
 
     const sessionTime = document.createElement('div');
-    sessionTime.textContent = `${day}, ${session.start_time} - ${session.end_time}`;
+    sessionTime.textContent = `${session.day}, ${session.start_time} - ${session.end_time}`;
     sessionTime.style.display = 'inline'; // Make it inline
     sessionTime.style.marginRight = '10px'; // Add right margin for spacing
 
