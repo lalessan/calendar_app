@@ -13,9 +13,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
   // Back button click event
   const backButton = document.querySelector('.back-link a');
-  backButton.addEventListener('click', function() {
-    window.location.href = 'index.html';
-  });
+  backButton.href = `program_interactive.html?day=${day}`;
+
 
 
   // Add click event listener to each search result
