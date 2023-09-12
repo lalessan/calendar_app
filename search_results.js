@@ -88,7 +88,7 @@ function displaySearchResults(presentations, day, keyword) {
 
 
     const sessionTime = document.createElement('div');
-    sessionTime.textContent = `${day}, ${session.start_time} - ${session.end_time}`;
+    sessionTime.textContent = `${session.day}, ${session.start_time} - ${session.end_time}`;
     sessionTime.style.display = 'inline'; // Make it inline
     sessionTime.style.marginRight = '10px'; // Add right margin for spacing
 
