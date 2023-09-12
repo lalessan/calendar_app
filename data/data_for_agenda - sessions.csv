@@ -1,0 +1,125 @@
+day,session_title,session_id,time_start,time_end,room,session_chair
+Jul 17,Registration,RA0,8:00,9:00,Atrium,
+Jul 17,The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART I),T1,9:00,10:30,Room C,
+Jul 17,Capturing Human Values during Controversies (PART I),T2,9:00,10:30,Room D,
+Jul 17,STREAMING: The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART I),T1_S,9:00,10:30,Room F,
+Jul 17,STREAMING: Capturing Human Values during Controversies (PART I),T2_S,9:00,10:30,Room G,
+Jul 17,Geospatial Data Science (PART I),T3,9:00,10:30,Room E,
+Jul 17,"Creating multiplayer, interactive online experiments with Empirica (PART I)",T4,9:00,10:30,Room H,
+Jul 17,Coffee Break,CB0,10:30,11:00,Atrium,
+Jul 17,The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART II),T1_1,11:00,12:30,Room C,
+Jul 17,Capturing Human Values during Controversies (PART II),T2_1,11:00,12:30,Room D,
+Jul 17,STREAMING: The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy (PART II),T1_1S,11:00,12:30,Room F,
+Jul 17,STREAMING: Capturing Human Values during Controversies (PART II),T2_1S,11:00,12:30,Room G,
+Jul 17,Geospatial Data Science (PART II),T3_1,11:00,12:30,Room E,
+Jul 17,"Creating multiplayer, interactive online experiments with Empirica (PART II)",T4_1,11:00,12:30,Room H,
+Jul 17,Lunch,LU0,12:30,13:30,Atrium,
+Jul 17,Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART I),T5,13:30,15:00,Room C,
+Jul 17,Images as data (PART I),T6,13:30,15:00,Room D,
+Jul 17,STREAMING: Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART I),T5_S,13:30,15:00,Room F,
+Jul 17,STREAMING: Images as data (PART I),T6_S,13:30,15:00,Room G,
+Jul 17,Computational Social Science from Space (PART I),T7,13:30,15:00,Room E,
+Jul 17,Data access for researchers under the Digital Services Act (PART I),T8,13:30,15:00,Room H,
+Jul 17,Coffee Break,CB01,15:00,15:30,Atrium,
+Jul 17,Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART II),T5_1,15:30,17:00,Room C,
+Jul 17,Images as data (PART II),T6_1,15:30,17:00,Room D,
+Jul 17,STREAMING: Thinking with Deep Learning: An exposition of deep (representation) learning for social science research (PART II),T5_1S,15:30,17:00,Room F,
+Jul 17,STREAMING: Images as data (PART II),T6_1S,15:30,17:00,Room G,
+Jul 17,Computational Social Science from Space (PART II),T7_1,15:30,17:00,Room E,
+Jul 17,Data access for researchers under the Digital Services Act (PART II),T8_1,15:30,17:00,Room H,
+Jul 17,Reception,LU00,17:00,18:30,Atrium,
+Jul 18,Registration,RA1,8:00,8:45,Atrium,
+Jul 18,Opening,OP,8:45,9:00,Room A,
+Jul 18,Keynote: Jevin West,K1,9:00,9:45,Room A,Claudia Wagner
+Jul 18,Lightning talks I,P1,9:45,10:30,Room A,Claudia Wagner
+Jul 18,STREAMING: Opening,OP_S,8:45,9:00,Room B,
+Jul 18,STREAMING: Keynote: Jevin West,K1_S,9:00,9:45,Room B,Claudia Wagner
+Jul 18,STREAMING: Lightning talks I,P1_S,9:45,10:30,Room B,Claudia Wagner
+Jul 18,Coffee Break,CB1,10:30,11:00,Atrium,
+Jul 18,Polarization I,1A,11:00,12:30,Room A,David Garcia
+Jul 18,Social networks I,1B,11:00,12:30,Room B,Milena Tsvetkova
+Jul 18,Inequalities and bias,1C,11:00,12:30,Room C,Elisa Omodei
+Jul 18,Online discourse I,1D,11:00,12:30,Room D,Sandra Gonzalez-Bailon
+Jul 18,Mobility and Urban Data Science I,1E,11:00,12:30,Room E,Leo Ferres
+Jul 18,Nature and Climate,1F,11:00,12:30,Room F,Clara Vandeweerdt
+Jul 18,Epidemics,1G,11:00,12:30,Room G,Andreia Sofia Teixeira
+Jul 18,Education,1H,11:00,12:30,Room H,Edward Lee
+Jul 18,Lunch & Poster Session I,LU1,12:30,13:30,Atrium,
+Jul 19,"Too Lazy to Read the Paper LIVESHOW EXTRAVAGANZA edition, with Sune Lehmann
+",LL1,13:00,14:00,Room C,
+Jul 18,Poster Session I,PT1,13:30,14:30,Atrium,
+Jul 18,Misinformation,2A,14:30,16:00,Room A,Luca Rossi
+Jul 18,Social Networks II,2B,14:30,16:00,Room B,Jonas Juul
+Jul 18,Polarization II,2C,14:30,16:00,Room C,Michele Coscia
+Jul 18,Social Media I,2D,14:30,16:00,Room D,Yelena Meyova
+Jul 18,Mobility and Urban Data Science II,2E,14:30,16:00,Room E,Michael Szell
+Jul 18,Digital behavior,2F,14:30,16:00,Room F,Lisette Espin Noboa
+Jul 18,Online discourse II,2G,14:30,16:00,Room G,Matteo Magnani
+Jul 18,Studies on Wikipedia,2H,14:30,16:00,Room H,Onur Varol
+Jul 18,Coffee Break,CB2,16:00,16:30,Atrium,
+Jul 18,Keynote: Linda Steg,K2,16:30,17:15,Room A,Duncan Watts
+Jul 18,Keynote: Sharad Goel,K3,17:15,18:00,Room A,Duncan Watts
+Jul 18,STREAMING: Keynote: Linda Steg,K2_S,16:30,17:15,Room B,Duncan Watts
+Jul 18,STREAMING: Keynote: Sharad Goel,K3_S,17:15,18:00,Room B,Duncan Watts
+Jul 19,Registration,RA2,8:00,9:00,Atrium,
+Jul 19,Keynote: Molly Crockett,K4,9:00,9:45,Room A,Taha Yasseri
+Jul 19,Lightning talks II,P2,9:45,10:30,Room A,Taha Yasseri
+Jul 19,STREAMING: Keynote: Molly Crockett,K4_S,9:00,9:45,Room B,Taha Yasseri
+Jul 19,STREAMING:  Lightning talks II,P2_S,9:45,10:30,Room B,Taha Yasseri
+Jul 19,Coffee Break,CB3,10:30,11:00,Atrium,
+Jul 19,NLP and society I,3A,11:00,12:30,Room A,Roberta Rocca
+Jul 19,Science of Science I,3B,11:00,12:30,Room B,Talal Rahwan
+Jul 19,Social media II,3C,11:00,12:30,Room C,Frauke Kreuter
+Jul 19,Economic complexity I,3D,11:00,12:30,Room D,Riccardo Di Clemente
+Jul 19,Mobility and Urban Data Science III,3E,11:00,12:30,Room E,Martin Arvidsson
+Jul 19,Teams and knowledge,3F,11:00,12:30,Room F,Taha Yasseri
+Jul 19,Health,3G,11:00,12:30,Room G,Michele Tizzoni
+Jul 19,Methods and theory,3H,11:00,12:30,Room H,Daniele Quercia
+Jul 19,Lunch & Poster Session II,LU2,12:30,13:30,Atrium,
+Jul 18,Panel Debate - Using Computational Social Science for the Sustainable Development Goals,LL2,13:00,14:00,Room C,
+Jul 19,Poster Session II,PT2,13:30,14:30,Atrium,
+Jul 19,NLP and society II,4A,14:30,16:00,Room A,Kokil Jaidka
+Jul 19,Social Media III,4B,14:30,16:00,Room B,Ingmar Weber
+Jul 19,Science of Science II,4C,14:30,16:00,Room C,Claudia Acciai
+Jul 19,Economic complexity I,4D,14:30,16:00,Room D,Sandor Juhasz
+Jul 19,Mobility and Urban Data Science IV,4E,14:30,16:00,Room E,Anna Sapienza
+Jul 19,Politics,4F,14:30,16:00,Room F,Yunkyu Sohn
+Jul 19,Experiments,4G,14:30,16:00,Room G,Mathieu Génois
+Jul 19,Social Media and Networks I,4H,14:30,16:00,Room H,Alexander Gates
+Jul 19,Coffee Break,CB4,16:00,16:30,Atrium,
+Jul 19,Keynote:  Lisa Anne Hendriks,K5,16:30,17:15,Room A,Roberta Sinatra
+Jul 19,Keynote: Stefan Gössling,K6,17:15,18:00,Room A,Roberta Sinatra
+Jul 19,STREAMING: Keynote:  Lisa Anne Hendriks,K5_S,16:30,17:15,Room B,Roberta Sinatra
+Jul 19,STREAMING: Keynote: Stefan Gössling,K6_S,17:15,18:00,Room B,Roberta Sinatra
+Jul 20,Registration,RA3,8:00,9:00,Atrium,
+Jul 20,Keynote: Tim Althoff,K8,9:45,10:30,Room A,Piotr Sapieżyński
+Jul 20,Keynote: Joanna Bryson,K7,9:00,9:45,Room A,Piotr Sapieżyński
+Jul 20,STREAMING: Keynote: Tim Althoff,K8_S,9:45,10:30,Room B,Piotr Sapieżyński
+Jul 20,STREAMING: Keynote: Joanna Bryson,K7_S,9:00,9:45,Room B,Piotr Sapieżyński
+Jul 20,Coffee Break,CB5,10:30,11:00,Atrium,
+Jul 20,Social good and ethics,5A,11:00,12:30,Room A,Vedran Sekara
+Jul 20,Machine learning and AI,5B,11:00,12:30,Room B,Piotr Sapiezynski
+Jul 20,Social media and networks II,5C,11:00,12:30,Room C,Gourab Ghoshal
+Jul 20,Science of science III,5D,11:00,12:30,Room D,Pantelis Pipergias Analytis
+Jul 20,Network science I,5E,11:00,12:30,Room E,Michele Starnini
+Jul 20,NLP and society III,5F,11:00,12:30,Room F,Kristina Gligoric
+Jul 20,Natural experiments and exogenous events I,5G,11:00,12:30,Room G,Kelton Minor
+Jul 20,ABMs,5H,11:00,12:30,Room H,Petter Holme
+Jul 20,Lunch & Poster Session III,LU3,12:30,13:30,Atrium,
+Jul 20,IC2S2 Conference Townhall,LL3,13:00,14:00,Room A,
+Jul 20,Poster Session III,PT3,13:30,14:30,Atrium,
+Jul 20,Gender inequality,6A,14:30,16:00,Room A,Kyriaki Kalimeri
+Jul 20,Mobility and Urban Data Science V,6B,14:30,16:00,Room B,Bruno Lepri
+Jul 20,Hate speech and toxicity,6C,14:30,16:00,Room C,Ivan Smirnov
+Jul 20,Politics II,6D,14:30,16:00,Room D,Yevgeniy Golovchenko
+Jul 20,Network science II,6E,14:30,16:00,Room E,Mikko Kivelä
+Jul 20,NLP and society IV,6F,14:30,16:00,Room F,Clemens Stachl
+Jul 20,Sociology of culture and culture dynamics,6G,14:30,16:00,Room G,Maximilian Schich
+Jul 20,Natural experiments and exogenous events II,6H,14:30,16:00,Room H,Rossano Schifanella
+Jul 20,Coffee Break,CB6,16:00,16:30,Atrium,
+Jul 20,Closing,CL,18:00,18:15,Room A,
+Jul 20,Keynote: Lauren Brent,K9,16:30,17:15,Room A,Sune Lehmann
+Jul 20,Keynote: Esteban Moro,K10,17:15,18:00,Room A,Sune Lehmann
+Jul 20,STREAMING: Closing,CL_S,18:00,18:15,Room B,
+Jul 20,STREAMING:  Keynote: Lauren Brent,K9_S,16:30,17:15,Room B,Sune Lehmann
+Jul 20,STREAMING: Keynote: Esteban Moro,K10_S,17:15,18:00,Room B,Sune Lehmann
